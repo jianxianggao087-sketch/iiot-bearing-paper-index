@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="关于 | IIoT × 轴承故障检测 论文索引">
+  <header class="site-header">
+    <p class="eyebrow">ABOUT THE INDEX</p>
+    <h1>关于本站</h1>
+  </header>
+  <section class="about-content">
+    <h2>数据来源</h2>
+    <p>本站数据来自 <a href="https://openalex.org" target="_blank" rel="noopener noreferrer">OpenAlex</a>（CC0 公共领域），通过其公开 API 每日抓取。</p>
+
+    <h2>收录口径</h2>
+    <p>仅收录同时满足以下条件的记录：<code>type=article</code>、主发布源为期刊、存在开放获取的已录用或已发表版本、标题含轴承相关术语、发布时间在近 5 年内。</p>
+
+    <h2>版本状态</h2>
+    <p>条目上的「已录用」依据 OpenAlex 记录的版本字段判断，表示该论文存在同行评审后的接收稿，不代表本站核实过录用函；「已正式发表」同理。判断可能滞后或缺失。</p>
+
+    <h2>不存储全文</h2>
+    <p>本站不存储、不缓存、不代理任何论文全文、PDF、HTML 全文或图片，也不展示摘要正文。所有标题链接直接跳转至 DOI 解析页面（出版社）；能否阅读全文取决于读者所在机构与论文许可。</p>
+
+    <h2>更新频率</h2>
+    <p>每日一次，UTC 06:00 触发，通常 10 分钟内完成。</p>
+
+    <h2>覆盖偏差与数据质量</h2>
+    <ul>
+      <li>「已录用/已发表」是近似判断，依赖 OpenAlex 的开放获取版本过滤器与 location 版本字段。无开放获取版本的已录用论文不会出现，版本标注也可能有误。</li>
+      <li>本站只覆盖开放获取可验证的子集；闭源期刊论文即使已发表也不会收录。</li>
+      <li>OpenAlex 对中文期刊、部分工程类会议与国内学报的覆盖不完整，可能明显偏少。</li>
+      <li>标题相关性闸门会排除标题不含 bearing 但摘要提及轴承的论文；引用数也可能因底层数据延迟而偏低。</li>
+      <li>作者名直接使用 OpenAlex 的 display name，不做作者消歧；超过近 5 年窗口的论文不再展示，但数据库仍保留。</li>
+    </ul>
+
+    <h2>纠错</h2>
+    <p>如发现数据错误，请到 OpenAlex 对应记录页提交修正，本站下次抓取会自动同步；本站不接受内容修改请求。</p>
+
+    <h2>版权与隐私</h2>
+    <p>论文元数据来自 OpenAlex 并以 CC0 发布，本站保留来源标注。本站不使用 Cookie、持久化本地存储、统计脚本或第三方运行时资源；筛选状态只写入当前页面 URL。</p>
+  </section>
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+interface Props {
+  years: { year: number; count: number }[];
+  journals: { name: string; count: number }[];
+}
+
+const { years, journals } = Astro.props;
+---
+<form class="filter-bar" id="filter-bar">
+  <label for="filter-year">年份
+    <select id="filter-year" name="year">
+      <option value="all">全部年份</option>
+      {years.map(({ year, count }) => <option value={year}>{year} ({count})</option>)}
+    </select>
+  </label>
+  <label for="filter-journal">期刊
+    <select id="filter-journal" name="journal">
+      <option value="all">全部期刊</option>
+      {journals.map(({ name, count }) => <option value={name}>{name} ({count})</option>)}
+    </select>
+  </label>
+  <label class="filter-query" for="filter-query">关键词
+    <input id="filter-query" name="q" type="search" placeholder="标题或作者" autocomplete="off" />
+  </label>
+  <label for="sort-by">排序
+    <select id="sort-by" name="sort">
+      <option value="latest">最新优先</option>
+      <option value="cited">引用最多</option>
+    </select>
+  </label>
+  <button class="reset-button" type="reset" id="filter-reset">重置</button>
+</form>

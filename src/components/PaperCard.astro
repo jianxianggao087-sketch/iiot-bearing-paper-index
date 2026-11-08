@@ -1,0 +1,46 @@
+---
+interface Paper {
+  id: string;
+  doi: string;
+  title: string;
+  authors: string[];
+  authorCount: number;
+  journal: string | null;
+  journalIssn: string | null;
+  year: number | null;
+  date: string | null;
+  versionStatus: 'published' | 'accepted' | 'unknown';
+  citedBy: number;
+  oaStatus: string | null;
+  url: string;
+}
+
+const { paper } = Astro.props as { paper: Paper };
+const authors = paper.authors.slice(0, 5).join(', ') + (paper.authorCount > 5 ? ' et al.' : '');
+const search = `${paper.title} ${paper.authors.join(' ')}`.toLocaleLowerCase();
+const badge = {
+  published: ['已正式发表', 'badge--published'],
+  accepted: ['已录用', 'badge--accepted'],
+  unknown: ['状态未标注', 'badge--unknown'],
+}[paper.versionStatus];
+---
+<article
+  class="paper-card"
+  data-year={paper.year ?? ''}
+  data-journal={paper.journal ?? ''}
+  data-date={paper.date ?? ''}
+  data-cited={paper.citedBy}
+  data-search={search}
+>
+  <h2 class="paper-title">
+    <a href={paper.url} target="_blank" rel="noopener noreferrer">{paper.title}</a>
+  </h2>
+  <p class="paper-authors" title={paper.authors.join(', ')}>{authors || '作者未标注'}</p>
+  <p class="paper-venue">
+    <strong class="paper-journal">{paper.journal || '未标注期刊'}</strong>
+    {paper.year && <span class="paper-year">{paper.year}</span>}
+    <span class={`badge ${badge[1]}`}>{badge[0]}</span>
+    {paper.oaStatus && paper.oaStatus !== 'closed' && <span class="badge badge--oa">OA</span>}
+  </p>
+  <p class="paper-metrics">{paper.citedBy} 次引用</p>
+</article>

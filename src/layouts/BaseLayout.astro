@@ -1,0 +1,35 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'IIoT × 轴承故障检测 论文索引',
+  description = '追踪工业物联网与轴承故障诊断交叉领域的已录用或已发表期刊论文。',
+} = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <nav class="top-nav" aria-label="主导航">
+      <a href={`${import.meta.env.BASE_URL}`}>论文索引</a>
+      <a href={`${import.meta.env.BASE_URL}about/`}>关于</a>
+    </nav>
+    <main class="site-shell"><slot /></main>
+    <footer class="site-footer">
+      <span>元数据来源：OpenAlex · CC0</span>
+      <a href="https://openalex.org" target="_blank" rel="noopener noreferrer">OpenAlex</a>
+    </footer>
+  </body>
+</html>

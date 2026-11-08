@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-11-08T13:41:52Z",
+  "total": 820,
+  "windowStart": "2021-11-08",
+  "windowEnd": "2026-11-08",
+  "lastSuccessfulRunAt": "2026-11-08T13:41:40Z",
+  "years": [
+    {
+      "year": 2026,
+      "count": 222
+    },
+    {
+      "year": 2025,
+      "count": 201
+    },
+    {
+      "year": 2024,
+      "count": 148
+    },
+    {
+      "year": 2023,
+      "count": 122
+    },
+    {
+      "year": 2022,
+      "count": 117
+    },
+    {
+      "year": 2021,
+      "count": 10
+    }
+  ],
+  "journals": [
+    {
+      "name": "Sensors",
+      "count": 91
+    },
+    {
+      "name": "Applied Sciences",
+      "count": 51
+    },
+    {
+      "name": "Machines",
+      "count": 51
+    },
+    {
+      "name": "IEEE Access",
+      "count": 47
+    },
+    {
+      "name": "Measurement Science and Technology",
+      "count": 47
+    },
+    {
+      "name": "Scientific Reports",
+      "count": 44
+    },
+    {
+      "name": "Electronics",
+      "count": 24
+    },
+    {
+      "name": "Processes",
+      "count": 16
+    },
+    {
+      "name": "Engineering Research Express",
+      "count": 15
+    },
+    {
+      "name": "Mechanical Systems and Signal Processing",
+      "count": 14
+    },
+    {
+      "name": "Journal of Vibroengineering",
+      "count": 13
+    },
+    {
+      "name": "Entropy",
+      "count": 12
+    },
+    {
+      "name": "Symmetry",
+      "count": 10
+    },
+    {
+      "name": "Energies",
+      "count": 9
+    },
+    {
+      "name": "PLoS ONE",
+      "count": 9
+    },
+    {
+      "name": "Shock and Vibration",
+      "count": 9
+    },
+    {
+      "name": "Eksploatacja i Niezawodnosc - Maintenance and Reliability",
+      "count": 8
+    },
+    {
+      "name": "Lubricants",
+      "count": 8
+    },
+    {
+      "name": "Structural Health Monitoring",
+      "count": 8
+    },
+    {
+      "name": "Actuators",
+      "count": 6
+    },
+    {
+      "name": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "count": 6
+    },
+    {
+      "name": "Mathematics",
+      "count": 6
+    },
+    {
+      "name": "Measurement",
+      "count": 6
+    },
+    {
+      "name": "AIP Advances",
+      "count": 5
+    },
+    {
+      "name": "Advances in Mechanical Engineering",
+      "count": 5
+    },
+    {
+      "name": "IEEE Transactions on Instrumentation and Measurement",
+      "count": 5
+    },
+    {
+      "name": "Journal of Dynamics Monitoring and Diagnostics",
+      "count": 5
+    },
+    {
+      "name": "The International Journal of Acoustics and Vibration",
+      "count": 5
+    },
+    {
+      "name": "Algorithms",
+      "count": 4
+    },
+    {
+      "name": "Expert Systems with Applications",
+      "count": 4
+    },
+    {
+      "name": "IEEE Sensors Journal",
+      "count": 4
+    },
+    {
+      "name": "Journal of Vibration and Control",
+      "count": 4
+    },
+    {
+      "name": "Knowledge-Based Systems",
+      "count": 4
+    },
+    {
+      "name": "Nonlinear Dynamics",
+      "count": 4
+    },
+    {
+      "name": "Results in Engineering",
+      "count": 4
+    },
+    {
+      "name": "World Electric Vehicle Journal",
+      "count": 4
+    },
+    {
+      "name": "Academic Journal of Science and Technology",
+      "count": 3
+    },
+    {
+      "name": "Applied Soft Computing",
+      "count": 3
+    },
+    {
+      "name": "Applied and Computational Engineering",
+      "count": 3
+    },
+    {
+      "name": "Array",
+      "count": 3
+    },
+    {
+      "name": "Computer Modeling in Engineering & Sciences",
+      "count": 3
+    },
+    {
+      "name": "Frontiers in Mechanical Engineering",
+      "count": 3
+    },
+    {
+      "name": "IET Electric Power Applications",
+      "count": 3
+    },
+    {
+      "name": "IFAC-PapersOnLine",
+      "count": 3
+    },
+    {
+      "name": "International Journal of Prognostics and Health Management",
+      "count": 3
+    },
+    {
+      "name": "Journal Européen des Systèmes Automatisés",
+      "count": 3
+    },
+    {
+      "name": "Journal of Computational Design and Engineering",
+      "count": 3
+    },
+    {
+      "name": "Mathematical Biosciences & Engineering",
+      "count": 3
+    },
+    {
+      "name": "Mathematical Problems in Engineering",
+      "count": 3
+    },
+    {
+      "name": "Micromachines",
+      "count": 3
+    },
+    {
+      "name": "Vibration",
+      "count": 3
+    },
+    {
+      "name": "Academic Journal of Applied Sciences",
+      "count": 2
+    },
+    {
+      "name": "Academic Journal of Engineering and Technology Science",
+      "count": 2
+    },
+    {
+      "name": "Acta Mechanica et Automatica",
+      "count": 2
+    },
+    {
+      "name": "Advanced Engineering Informatics",
+      "count": 2
+    },
+    {
+      "name": "Aerospace",
+      "count": 2
+    },
+    {
+      "name": "Chinese Journal of Mechanical Engineering",
+      "count": 2
+    },
+    {
+      "name": "Computational Intelligence and Neuroscience",
+      "count": 2
+    },
+    {
+      "name": "Electrical Engineering",
+      "count": 2
+    },
+    {
+      "name": "Electronic Research Archive",
+      "count": 2
+    },
+    {
+      "name": "Energy Reports",
+      "count": 2
+    },
+    {
+      "name": "European Journal of Applied Science Engineering and Technology",
+      "count": 2
+    },
+    {
+      "name": "Frontiers in Computing and Intelligent Systems",
+      "count": 2
+    },
+    {
+      "name": "Frontiers in Science and Engineering",
+      "count": 2
+    },
+    {
+      "name": "IEEE Internet of Things Journal",
+      "count": 2
+    },
+    {
+      "name": "International Journal of Advanced Computer Science and Applications",
+      "count": 2
+    },
+    {
+      "name": "International Journal of Machine Learning and Cybernetics",
+      "count": 2
+    },
+    {
+      "name": "International Journal of Mechanical and Electrical Engineering",
+      "count": 2
+    },
+    {
+      "name": "International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering",
+      "count": 2
+    },
+    {
+      "name": "International Journal of Signal and Imaging Systems Engineering",
+      "count": 2
+    },
+    {
+      "name": "Journal of Electrical and Computer Engineering",
+      "count": 2
+    },
+    {
+      "name": "Journal of Electronic Research and Application",
+      "count": 2
+    },
+    {
+      "name": "Journal of Electronics and Information Science",
+      "count": 2
+    },
+    {
+      "name": "Journal of Instrumentation",
+      "count": 2
+    },
+    {
+      "name": "Machine Learning with Applications",
+      "count": 2
+    },
+    {
+      "name": "Manufacturing Letters",
+      "count": 2
+    },
+    {
+      "name": "Measurement Science Review",
+      "count": 2
+    },
+    {
+      "name": "Neurocomputing",
+      "count": 2
+    },
+    {
+      "name": "OALib",
+      "count": 2
+    },
+    {
+      "name": "PeerJ Computer Science",
+      "count": 2
+    },
+    {
+      "name": "Reliability Engineering & System Safety",
+      "count": 2
+    },
+    {
+      "name": "Scientific Programming",
+      "count": 2
+    },
+    {
+      "name": "Smart Materials and Structures",
+      "count": 2
+    },
+    {
+      "name": "Structural Control and Health Monitoring",
+      "count": 2
+    },
+    {
+      "name": "The International Journal of Advanced Manufacturing Technology",
+      "count": 2
+    },
+    {
+      "name": "Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University",
+      "count": 2
+    }
+  ]
+}

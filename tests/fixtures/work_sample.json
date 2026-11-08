@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W4388774485",
+  "doi": "https://doi.org/10.1016/j.ymssp.2024.111234",
+  "title": "Digital twin-driven bearing fault diagnosis with edge computing in IIoT",
+  "publication_year": 2024,
+  "publication_date": "2024-05-01",
+  "cited_by_count": 42,
+  "type": "article",
+  "is_retracted": false,
+  "open_access": {"is_oa": true, "oa_status": "hybrid"},
+  "authorships": [
+    {"author": {"display_name": "Wei Zhang"}},
+    {"author": {"display_name": "Li Chen"}},
+    {"author": {"display_name": "Ming Sun"}},
+    {"author": {"display_name": "Hao Wang"}}
+  ],
+  "primary_location": {
+    "version": "publishedVersion",
+    "is_published": true,
+    "source": {"display_name": "Mechanical Systems and Signal Processing", "issn_l": "0888-3270", "type": "journal"}
+  }
+}

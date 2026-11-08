@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FilterBar from '../components/FilterBar.astro';
+import PaperCard from '../components/PaperCard.astro';
+import data from '../data/papers.json';
+import meta from '../data/meta.json';
+
+const dateLabel = data.generatedAt ? data.generatedAt.slice(0, 10) : '尚无数据';
+---
+<BaseLayout>
+  <header class="site-header">
+    <p class="eyebrow">OPENALEX JOURNAL INDEX</p>
+    <h1>IIoT × 轴承故障检测<br />论文索引</h1>
+    <p class="tagline">追踪工业物联网与轴承故障诊断交叉领域的已录用或已发表期刊论文</p>
+    <p class="meta">共 {data.total} 篇 <span aria-hidden="true">·</span> 数据更新于 {dateLabel} <span aria-hidden="true">·</span> 覆盖近 5 年</p>
+  </header>
+
+  <section class="catalog" aria-label="论文目录">
+    <FilterBar years={meta.years} journals={meta.journals} />
+    <p class="result-count" id="result-count" aria-live="polite">显示 {data.papers.length} / 共 {data.papers.length} 篇</p>
+    <div class="paper-list" id="paper-list">
+      {data.papers.map((paper) => <PaperCard paper={paper} />)}
+    </div>
+    <p class="empty-state" id="empty-state" hidden>没有符合条件的论文，试试清空筛选条件。</p>
+    <button class="load-more" id="load-more" type="button" hidden>加载更多</button>
+    {data.papers.length === 0 && <p class="empty-state empty-state--initial">当前索引暂时没有可展示的论文。数据同步成功后，论文将显示在这里。</p>}
+  </section>
+  <script>
+    import '../scripts/filter.ts';
+  </script>
+</BaseLayout>
