@@ -1,5 +1,9 @@
 # IIoT × 轴承故障检测 论文索引
 
+**在线站点**：https://jianxianggao087-sketch.github.io/iiot-bearing-paper-index/
+
+**数据更新**：每日 UTC 06:00（北京时间 14:00）由 GitHub Actions 自动抓取 OpenAlex 并重新部署。
+
 ## 是什么 / 不是什么
 
 这是一个纯静态论文索引，收录工业物联网、边缘智能与轴承故障诊断交叉领域中已录用或已发表的期刊论文。数据来自 OpenAlex，SQLite 数据库与导出的 JSON 随仓库保存。
