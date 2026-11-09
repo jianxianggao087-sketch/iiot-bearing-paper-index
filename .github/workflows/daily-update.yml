@@ -2,7 +2,11 @@ name: Daily Paper Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    # 主跑：UTC 06:17 = 北京时间 14:17
+    # 避开整点（GitHub 调度器在 :00 最拥堵，容易延迟甚至直接跳过）
+    - cron: '17 6 * * *'
+    # 兜底：UTC 10:17 = 北京时间 18:17，若主跑未触发或失败则补一次
+    - cron: '17 10 * * *'
   workflow_dispatch:
   push:
     branches: [main]
