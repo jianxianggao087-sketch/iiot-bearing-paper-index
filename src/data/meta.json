@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T14:51:27Z",
-  "total": 821,
+  "generatedAt": "2026-11-10T17:53:41Z",
+  "total": 822,
   "windowStart": "2021-11-10",
   "windowEnd": "2026-11-10",
-  "lastSuccessfulRunAt": "2026-11-10T14:51:27Z",
+  "lastSuccessfulRunAt": "2026-11-10T17:53:41Z",
   "years": [
     {
       "year": 2026,
-      "count": 223
+      "count": 224
     },
     {
       "year": 2025,
@@ -37,7 +37,7 @@
     },
     {
       "name": "Applied Sciences",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Machines",
