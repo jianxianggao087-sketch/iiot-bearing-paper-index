@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T10:22:42Z",
-  "total": 820,
-  "windowStart": "2021-11-09",
-  "windowEnd": "2026-11-09",
-  "lastSuccessfulRunAt": "2026-11-09T10:22:42Z",
+  "generatedAt": "2026-11-10T14:51:27Z",
+  "total": 821,
+  "windowStart": "2021-11-10",
+  "windowEnd": "2026-11-10",
+  "lastSuccessfulRunAt": "2026-11-10T14:51:27Z",
   "years": [
     {
       "year": 2026,
-      "count": 222
+      "count": 223
     },
     {
       "year": 2025,
@@ -156,6 +156,10 @@
       "count": 4
     },
     {
+      "name": "International Journal of Prognostics and Health Management",
+      "count": 4
+    },
+    {
       "name": "Journal of Vibration and Control",
       "count": 4
     },
@@ -205,10 +209,6 @@
     },
     {
       "name": "IFAC-PapersOnLine",
-      "count": 3
-    },
-    {
-      "name": "International Journal of Prognostics and Health Management",
       "count": 3
     },
     {
