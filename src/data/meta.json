@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-10T17:53:41Z",
-  "total": 822,
-  "windowStart": "2021-11-10",
-  "windowEnd": "2026-11-10",
-  "lastSuccessfulRunAt": "2026-11-10T17:53:41Z",
+  "generatedAt": "2026-11-11T14:20:48Z",
+  "total": 827,
+  "windowStart": "2021-11-11",
+  "windowEnd": "2026-11-11",
+  "lastSuccessfulRunAt": "2026-11-11T14:20:48Z",
   "years": [
     {
       "year": 2026,
-      "count": 224
+      "count": 229
     },
     {
       "year": 2025,
-      "count": 201
+      "count": 202
     },
     {
       "year": 2024,
@@ -27,7 +27,7 @@
     },
     {
       "year": 2021,
-      "count": 10
+      "count": 9
     }
   ],
   "journals": [
@@ -37,18 +37,18 @@
     },
     {
       "name": "Applied Sciences",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Machines",
       "count": 51
     },
     {
-      "name": "IEEE Access",
-      "count": 47
+      "name": "Measurement Science and Technology",
+      "count": 49
     },
     {
-      "name": "Measurement Science and Technology",
+      "name": "IEEE Access",
       "count": 47
     },
     {
@@ -132,6 +132,10 @@
       "count": 5
     },
     {
+      "name": "IEEE Sensors Journal",
+      "count": 5
+    },
+    {
       "name": "IEEE Transactions on Instrumentation and Measurement",
       "count": 5
     },
@@ -149,10 +153,6 @@
     },
     {
       "name": "Expert Systems with Applications",
-      "count": 4
-    },
-    {
-      "name": "IEEE Sensors Journal",
       "count": 4
     },
     {
