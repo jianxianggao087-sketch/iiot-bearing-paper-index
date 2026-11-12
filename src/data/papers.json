@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T17:55:05Z",
-  "windowStart": "2021-11-11",
+  "generatedAt": "2026-11-12T15:12:53Z",
+  "windowStart": "2021-11-12",
   "total": 827,
   "papers": [
     {
@@ -3196,7 +3196,7 @@
       "year": 2026,
       "date": "2026-03-19",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 4,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.measurement.2026.121203"
     },
@@ -3322,7 +3322,7 @@
       "year": 2026,
       "date": "2026-03-05",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2026.114108"
     },
@@ -4160,6 +4160,25 @@
       "url": "https://doi.org/10.1109/access.2026.3674453"
     },
     {
+      "id": "W7202375609",
+      "doi": "10.1109/tase.2026.3723524",
+      "title": "FM-CGFCN: An Interpretable Frequency-Domain Masked Cross-Scale Graph Fusion Convolution Network for Rolling Bearing Fault Diagnosis",
+      "authors": [
+        "Haopeng Liang",
+        "Sen Li",
+        "Alaeldden Abduelhadi"
+      ],
+      "authorCount": 3,
+      "journal": "IEEE Transactions on Automation Science and Engineering",
+      "journalIssn": "1545-5955",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 1,
+      "oaStatus": "hybrid",
+      "url": "https://doi.org/10.1109/tase.2026.3723524"
+    },
+    {
       "id": "W7161707168",
       "doi": "10.1109/access.2026.3694523",
       "title": "A Lightweight Heterogeneous Neural Network Architecture for Multiscale Feature Extraction in Bearing Fault Diagnosis",
@@ -4523,25 +4542,6 @@
       "citedBy": 0,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.2478/ijssis-2026-0075"
-    },
-    {
-      "id": "W7202375609",
-      "doi": "10.1109/tase.2026.3723524",
-      "title": "FM-CGFCN: An Interpretable Frequency-Domain Masked Cross-Scale Graph Fusion Convolution Network for Rolling Bearing Fault Diagnosis",
-      "authors": [
-        "Haopeng Liang",
-        "Sen Li",
-        "Alaeldden Abduelhadi"
-      ],
-      "authorCount": 3,
-      "journal": "IEEE Transactions on Automation Science and Engineering",
-      "journalIssn": "1545-5955",
-      "year": 2026,
-      "date": "2026-01-01",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "hybrid",
-      "url": "https://doi.org/10.1109/tase.2026.3723524"
     },
     {
       "id": "W7140299575",
@@ -5320,7 +5320,7 @@
     {
       "id": "W4415499863",
       "doi": "10.36001/ijphm.2025.v16i2.4469",
-      "title": "Integrating Spatial and Temporal Features for Bearing Fault Diagnosis",
+      "title": "Integrating Spatial and Temporal Features for Bearing Fault Diagnosis: A Cross-Domain Analysis Using Vibration and Acoustic Data",
       "authors": [
         "Mert Sehri",
         "Niousha Khalilian",
@@ -5459,7 +5459,7 @@
       "year": 2025,
       "date": "2025-10-17",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 9,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13100960"
     },
@@ -5646,7 +5646,7 @@
       "year": 2025,
       "date": "2025-10-02",
       "versionStatus": "published",
-      "citedBy": 23,
+      "citedBy": 24,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13100902"
     },
@@ -5894,7 +5894,7 @@
       "year": 2025,
       "date": "2025-09-03",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym17091438"
     },
@@ -6302,7 +6302,7 @@
       "year": 2025,
       "date": "2025-07-20",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-12533-2"
     },
@@ -6902,7 +6902,7 @@
       "year": 2025,
       "date": "2025-05-28",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 14,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13060467"
     },
@@ -7207,7 +7207,7 @@
       "year": 2025,
       "date": "2025-04-24",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 14,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092678"
     },
@@ -7267,7 +7267,7 @@
       "year": 2025,
       "date": "2025-04-19",
       "versionStatus": "published",
-      "citedBy": 25,
+      "citedBy": 26,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-98138-1"
     },
@@ -7731,7 +7731,7 @@
       "year": 2025,
       "date": "2025-02-27",
       "versionStatus": "published",
-      "citedBy": 20,
+      "citedBy": 21,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1093/jcde/qwaf021"
     },
@@ -8775,7 +8775,7 @@
       ],
       "authorCount": 1,
       "journal": "Modeling and Simulation",
-      "journalIssn": "2324-8696",
+      "journalIssn": "2324-870X",
       "year": 2025,
       "date": "2025-01-01",
       "versionStatus": "published",
@@ -9002,7 +9002,7 @@
       "year": 2024,
       "date": "2024-12-16",
       "versionStatus": "published",
-      "citedBy": 22,
+      "citedBy": 23,
       "oaStatus": "green",
       "url": "https://doi.org/10.1109/tnnls.2024.3513329"
     },
@@ -9188,7 +9188,7 @@
       "year": 2024,
       "date": "2024-11-23",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics13234622"
     },
@@ -10123,7 +10123,7 @@
       "year": 2024,
       "date": "2024-06-28",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1088/2631-8695/ad5d52"
     },
@@ -10345,7 +10345,7 @@
       "year": 2024,
       "date": "2024-05-23",
       "versionStatus": "published",
-      "citedBy": 47,
+      "citedBy": 48,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad4fb3"
     },
@@ -10966,7 +10966,7 @@
       "year": 2024,
       "date": "2024-03-01",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.knosys.2024.111587"
     },
@@ -11085,7 +11085,7 @@
       "year": 2024,
       "date": "2024-01-31",
       "versionStatus": "published",
-      "citedBy": 20,
+      "citedBy": 21,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app14031198"
     },
@@ -11429,7 +11429,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 19,
+      "citedBy": 20,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3381618"
     },
@@ -12447,7 +12447,7 @@
       "year": 2023,
       "date": "2023-09-13",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 14,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1371/journal.pone.0291353"
     },
@@ -12933,7 +12933,7 @@
       "year": 2023,
       "date": "2023-07-03",
       "versionStatus": "published",
-      "citedBy": 31,
+      "citedBy": 32,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1177/14759217231175886"
     },
@@ -13334,7 +13334,7 @@
       "year": 2023,
       "date": "2023-05-11",
       "versionStatus": "published",
-      "citedBy": 97,
+      "citedBy": 98,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110434"
     },
@@ -13576,7 +13576,7 @@
       "year": 2023,
       "date": "2023-03-31",
       "versionStatus": "published",
-      "citedBy": 86,
+      "citedBy": 87,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-023-32369-y"
     },
@@ -13659,7 +13659,7 @@
       "year": 2023,
       "date": "2023-02-26",
       "versionStatus": "published",
-      "citedBy": 385,
+      "citedBy": 386,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2023.109186"
     },
@@ -13891,7 +13891,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 463,
+      "citedBy": 464,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.aei.2023.101877"
     },
@@ -13915,7 +13915,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 153,
+      "citedBy": 154,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1109/ticps.2023.3298879"
     },
@@ -14306,7 +14306,7 @@
       ],
       "authorCount": 2,
       "journal": "Complex & Intelligent Systems",
-      "journalIssn": "2198-6053",
+      "journalIssn": "2199-4536",
       "year": 2022,
       "date": "2022-12-30",
       "versionStatus": "published",
@@ -15360,7 +15360,7 @@
       "year": 2022,
       "date": "2022-08-28",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1155/2022/9231305"
     },
@@ -15686,7 +15686,7 @@
       "year": 2022,
       "date": "2022-06-28",
       "versionStatus": "published",
-      "citedBy": 37,
+      "citedBy": 38,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22134881"
     },
@@ -15769,7 +15769,7 @@
       "year": 2022,
       "date": "2022-05-23",
       "versionStatus": "published",
-      "citedBy": 100,
+      "citedBy": 101,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22103936"
     },
@@ -16807,7 +16807,7 @@
       "year": 2021,
       "date": "2021-11-22",
       "versionStatus": "published",
-      "citedBy": 75,
+      "citedBy": 76,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s21227762"
     }
