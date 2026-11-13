@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T14:33:05Z",
-  "total": 827,
+  "generatedAt": "2026-11-13T17:45:59Z",
+  "total": 830,
   "windowStart": "2021-11-13",
   "windowEnd": "2026-11-13",
-  "lastSuccessfulRunAt": "2026-11-13T14:33:05Z",
+  "lastSuccessfulRunAt": "2026-11-13T17:45:59Z",
   "years": [
     {
       "year": 2026,
-      "count": 229
+      "count": 232
     },
     {
       "year": 2025,
@@ -60,12 +60,12 @@
       "count": 24
     },
     {
-      "name": "Processes",
+      "name": "Engineering Research Express",
       "count": 16
     },
     {
-      "name": "Engineering Research Express",
-      "count": 15
+      "name": "Processes",
+      "count": 16
     },
     {
       "name": "Mechanical Systems and Signal Processing",
@@ -144,6 +144,10 @@
       "count": 5
     },
     {
+      "name": "Knowledge-Based Systems",
+      "count": 5
+    },
+    {
       "name": "The International Journal of Acoustics and Vibration",
       "count": 5
     },
@@ -161,10 +165,6 @@
     },
     {
       "name": "Journal of Vibration and Control",
-      "count": 4
-    },
-    {
-      "name": "Knowledge-Based Systems",
       "count": 4
     },
     {

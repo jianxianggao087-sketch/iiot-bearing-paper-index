@@ -1,8 +1,49 @@
 {
-  "generatedAt": "2026-11-13T14:33:05Z",
+  "generatedAt": "2026-11-13T17:45:59Z",
   "windowStart": "2021-11-13",
-  "total": 827,
+  "total": 830,
   "papers": [
+    {
+      "id": "W7225770705",
+      "doi": "10.1016/j.knosys.2026.117310",
+      "title": "Explainable bearing fault diagnosis using Shapley additive explanations: Cross-dataset insights from time, frequency, and chaotic domains",
+      "authors": [
+        "Alonso Menéndez-González",
+        "Luis Magadán",
+        "Juan Carlos Granda",
+        "Francisco J. Suárez"
+      ],
+      "authorCount": 4,
+      "journal": "Knowledge-Based Systems",
+      "journalIssn": "0950-7051",
+      "year": 2026,
+      "date": "2026-11-11",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "hybrid",
+      "url": "https://doi.org/10.1016/j.knosys.2026.117310"
+    },
+    {
+      "id": "W7225828168",
+      "doi": "10.1088/2631-8695/aec101",
+      "title": "A Physics-Inspired CNN-Transformer Synergistic Framework for Bearing Fault Diagnosis under Strong Noise Environments",
+      "authors": [
+        "Chuang Liang",
+        "Zhen Jiang",
+        "Yonghe Wei",
+        "Xiao-Guang Zhang",
+        "Chengcheng Wang"
+      ],
+      "authorCount": 5,
+      "journal": "Engineering Research Express",
+      "journalIssn": "2631-8695",
+      "year": 2026,
+      "date": "2026-11-11",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/2631-8695/aec101"
+    },
     {
       "id": "W7225728919",
       "doi": "10.3390/s26227104",
@@ -4197,6 +4238,25 @@
       "url": "https://doi.org/10.1109/access.2026.3694523"
     },
     {
+      "id": "W7162627128",
+      "doi": "10.5935/jetia.v12i59.3508",
+      "title": "Bearing Fault Diagnosis: Datasets, Signal Processing Paradigms, and Intelligent Diagnostic Frameworks",
+      "authors": [
+        "Hitesh K Patel",
+        "D.H. Pandya",
+        "Ankit Darji"
+      ],
+      "authorCount": 3,
+      "journal": "ITEGAM- Journal of Engineering and Technology for Industrial Applications (ITEGAM-JETIA)",
+      "journalIssn": "2447-0228",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.5935/jetia.v12i59.3508"
+    },
+    {
       "id": "W7225656232",
       "doi": "10.1109/jsen.2026.3749624",
       "title": "Few-Shot Bearing Fault Diagnosis Based on Step-Decay Model-Agnostic Meta-Learning",
@@ -4784,7 +4844,7 @@
       "year": 2025,
       "date": "2025-12-11",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 16,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics14244875"
     },
@@ -5026,7 +5086,7 @@
       "year": 2025,
       "date": "2025-11-20",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/e27111178"
     },
@@ -8562,6 +8622,26 @@
       "url": "https://doi.org/10.3934/era.2025237"
     },
     {
+      "id": "W4411151599",
+      "doi": "10.1155/je/4707723",
+      "title": "A Comparative Study of Image Representation for Roller Bearing Fault Diagnosis Using Pretrained Networks",
+      "authors": [
+        "M. Arun Balaji",
+        "S. Naveen Venkatesh",
+        "Vaithiyanathan Sugumaran",
+        "K.I. Ramachandran"
+      ],
+      "authorCount": 4,
+      "journal": "Journal of Engineering",
+      "journalIssn": "2314-4904",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 5,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1155/je/4707723"
+    },
+    {
       "id": "W4409796218",
       "doi": "10.1109/access.2025.3564484",
       "title": "Ball Bearing Fault Diagnosis Based on Hybrid Adversarial Learning",
@@ -8627,26 +8707,6 @@
       "citedBy": 4,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1109/tim.2025.3619659"
-    },
-    {
-      "id": "W4411151599",
-      "doi": "10.1155/je/4707723",
-      "title": "A Comparative Study of Image Representation for Roller Bearing Fault Diagnosis Using Pretrained Networks",
-      "authors": [
-        "M. Arun Balaji",
-        "S. Naveen Venkatesh",
-        "Vaithiyanathan Sugumaran",
-        "K.I. Ramachandran"
-      ],
-      "authorCount": 4,
-      "journal": "Journal of Engineering",
-      "journalIssn": "2314-4904",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 4,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1155/je/4707723"
     },
     {
       "id": "W4410152949",
@@ -10783,7 +10843,7 @@
       "year": 2024,
       "date": "2024-03-13",
       "versionStatus": "published",
-      "citedBy": 68,
+      "citedBy": 69,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24061831"
     },
@@ -12631,7 +12691,7 @@
       "year": 2023,
       "date": "2023-08-19",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics12163515"
     },
@@ -14692,7 +14752,7 @@
       "year": 2022,
       "date": "2022-11-17",
       "versionStatus": "published",
-      "citedBy": 86,
+      "citedBy": 87,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22228906"
     },
@@ -15180,7 +15240,7 @@
       "year": 2022,
       "date": "2022-09-30",
       "versionStatus": "published",
-      "citedBy": 39,
+      "citedBy": 40,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13101656"
     },
@@ -15321,7 +15381,7 @@
       "year": 2022,
       "date": "2022-08-29",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22176489"
     },
@@ -15848,7 +15908,7 @@
       "year": 2022,
       "date": "2022-05-07",
       "versionStatus": "published",
-      "citedBy": 6,
+      "citedBy": 7,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics11091504"
     },
@@ -16077,7 +16137,7 @@
       "year": 2022,
       "date": "2022-03-16",
       "versionStatus": "published",
-      "citedBy": 95,
+      "citedBy": 96,
       "oaStatus": "gold",
       "url": "https://doi.org/10.21595/jve.2022.22271"
     },
