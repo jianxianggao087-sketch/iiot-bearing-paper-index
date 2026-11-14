@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T17:45:59Z",
-  "windowStart": "2021-11-13",
+  "generatedAt": "2026-11-14T13:29:31Z",
+  "windowStart": "2021-11-14",
   "total": 830,
   "papers": [
     {
@@ -5746,7 +5746,7 @@
       "year": 2025,
       "date": "2025-10-01",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app151910631"
     },
@@ -7248,7 +7248,7 @@
       "year": 2025,
       "date": "2025-04-25",
       "versionStatus": "published",
-      "citedBy": 96,
+      "citedBy": 97,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092712"
     },
@@ -7456,7 +7456,7 @@
       "year": 2025,
       "date": "2025-04-10",
       "versionStatus": "published",
-      "citedBy": 64,
+      "citedBy": 65,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-95895-x"
     },
@@ -9062,7 +9062,7 @@
       "year": 2024,
       "date": "2024-12-16",
       "versionStatus": "published",
-      "citedBy": 23,
+      "citedBy": 24,
       "oaStatus": "green",
       "url": "https://doi.org/10.1109/tnnls.2024.3513329"
     },
@@ -12019,7 +12019,7 @@
       "year": 2023,
       "date": "2023-12-14",
       "versionStatus": "published",
-      "citedBy": 19,
+      "citedBy": 20,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11121089"
     },
@@ -12200,7 +12200,7 @@
       "year": 2023,
       "date": "2023-11-21",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23239311"
     },
@@ -13085,7 +13085,7 @@
       "year": 2023,
       "date": "2023-06-24",
       "versionStatus": "published",
-      "citedBy": 33,
+      "citedBy": 34,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11070678"
     },
@@ -14816,7 +14816,7 @@
       "year": 2022,
       "date": "2022-11-12",
       "versionStatus": "published",
-      "citedBy": 62,
+      "citedBy": 63,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22228760"
     },
