@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:29:31Z",
+  "generatedAt": "2026-11-14T16:37:17Z",
   "windowStart": "2021-11-14",
   "total": 830,
   "papers": [
@@ -10243,7 +10243,7 @@
       "year": 2024,
       "date": "2024-06-24",
       "versionStatus": "published",
-      "citedBy": 1,
+      "citedBy": 2,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.14270/ijce2024.a00256.18"
     },
@@ -16353,7 +16353,7 @@
       "year": 2022,
       "date": "2022-01-22",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr10020209"
     },
