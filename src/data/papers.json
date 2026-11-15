@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-15T13:54:58Z",
+  "generatedAt": "2026-11-15T17:13:27Z",
   "windowStart": "2021-11-15",
-  "total": 830,
+  "total": 834,
   "papers": [
     {
       "id": "W7225770705",
@@ -3299,7 +3299,7 @@
       "year": 2026,
       "date": "2026-03-11",
       "versionStatus": "published",
-      "citedBy": 6,
+      "citedBy": 7,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16062660"
     },
@@ -3989,7 +3989,7 @@
       "year": 2026,
       "date": "2026-01-01",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 9,
       "oaStatus": "green",
       "url": "https://doi.org/10.1109/tcyb.2026.3668256"
     },
@@ -4236,6 +4236,25 @@
       "citedBy": 1,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2026.3694523"
+    },
+    {
+      "id": "W7218561374",
+      "doi": "10.32604/cmc.2026.085769",
+      "title": "Lightweight Attention CNN–BiLSTM Model with Contrastive Regularization and Explainable Time–Frequency Analysis for Bearing Fault Diagnosis",
+      "authors": [
+        "Sherif Said",
+        "Emrah Aslan",
+        "Yıldırım ÖZÜPAK"
+      ],
+      "authorCount": 3,
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "journalIssn": "1546-2218",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmc.2026.085769"
     },
     {
       "id": "W7162627128",
@@ -8432,6 +8451,28 @@
       "url": "https://doi.org/10.3390/s25010224"
     },
     {
+      "id": "W4408874023",
+      "doi": "10.32604/cmc.2025.062625",
+      "title": "Rolling Bearing Fault Diagnosis Based on Cross-Attention Fusion WDCNN and BILSTM",
+      "authors": [
+        "Yingyong Zou",
+        "Xingkui Zhang",
+        "Tao Liu",
+        "Yu Zhang",
+        "Long Li",
+        "Wenzhuo Zhao"
+      ],
+      "authorCount": 6,
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "journalIssn": "1546-2218",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 18,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmc.2025.062625"
+    },
+    {
       "id": "W4409563519",
       "doi": "10.1155/stc/6498371",
       "title": "One‐Dimensional Deep Convolutional Neural Network‐Based Intelligent Fault Diagnosis Method for Bearings Under Unbalanced Health and High‐Class Health States",
@@ -8600,6 +8641,25 @@
       "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1049/elp2.70074"
+    },
+    {
+      "id": "W4410058261",
+      "doi": "10.32604/cmes.2025.063975",
+      "title": "Full Ceramic Bearing Fault Diagnosis with Few-Shot Learning Using GPT-2",
+      "authors": [
+        "David He",
+        "Miao He",
+        "Jay Yoon"
+      ],
+      "authorCount": 3,
+      "journal": "Computer Modeling in Engineering & Sciences",
+      "journalIssn": "1526-1492",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 5,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmes.2025.063975"
     },
     {
       "id": "W4414136032",
@@ -11454,6 +11514,29 @@
       "citedBy": 29,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3390234"
+    },
+    {
+      "id": "W4403437241",
+      "doi": "10.32604/cmes.2024.054257",
+      "title": "Optimizing Bearing Fault Detection: CNN-LSTM with Attentive TabNet for Electric Motor Systems",
+      "authors": [
+        "Alaa Uthman Khawaja",
+        "Ahmad Shaf",
+        "Faisal Al Thobiani",
+        "Tariq M. Ali",
+        "Muhammad Irfan",
+        "Aqib Rehman Pirzada",
+        "Unza Shahkeel"
+      ],
+      "authorCount": 7,
+      "journal": "Computer Modeling in Engineering & Sciences",
+      "journalIssn": "1526-1492",
+      "year": 2024,
+      "date": "2024-01-01",
+      "versionStatus": "published",
+      "citedBy": 20,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmes.2024.054257"
     },
     {
       "id": "W4399881361",
@@ -16867,7 +16950,7 @@
       "year": 2021,
       "date": "2021-11-22",
       "versionStatus": "published",
-      "citedBy": 76,
+      "citedBy": 77,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s21227762"
     }

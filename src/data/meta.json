@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-15T13:54:58Z",
-  "total": 830,
+  "generatedAt": "2026-11-15T17:13:27Z",
+  "total": 834,
   "windowStart": "2021-11-15",
   "windowEnd": "2026-11-15",
-  "lastSuccessfulRunAt": "2026-11-15T13:54:57Z",
+  "lastSuccessfulRunAt": "2026-11-15T17:13:27Z",
   "years": [
     {
       "year": 2026,
-      "count": 232
+      "count": 233
     },
     {
       "year": 2025,
-      "count": 202
+      "count": 204
     },
     {
       "year": 2024,
-      "count": 148
+      "count": 149
     },
     {
       "year": 2023,
@@ -96,6 +96,10 @@
       "count": 9
     },
     {
+      "name": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "count": 8
+    },
+    {
       "name": "Eksploatacja i Niezawodnosc - Maintenance and Reliability",
       "count": 8
     },
@@ -112,10 +116,6 @@
       "count": 6
     },
     {
-      "name": "Computers, materials & continua/Computers, materials & continua (Print)",
-      "count": 6
-    },
-    {
       "name": "Mathematics",
       "count": 6
     },
@@ -129,6 +129,10 @@
     },
     {
       "name": "Advances in Mechanical Engineering",
+      "count": 5
+    },
+    {
+      "name": "Computer Modeling in Engineering & Sciences",
       "count": 5
     },
     {
@@ -193,10 +197,6 @@
     },
     {
       "name": "Array",
-      "count": 3
-    },
-    {
-      "name": "Computer Modeling in Engineering & Sciences",
       "count": 3
     },
     {
