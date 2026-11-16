@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:42:51Z",
+  "generatedAt": "2026-11-16T20:30:54Z",
   "windowStart": "2021-11-16",
   "total": 834,
   "papers": [
@@ -5826,7 +5826,7 @@
       "year": 2025,
       "date": "2025-09-25",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-18187-4"
     },
@@ -8161,7 +8161,7 @@
       "year": 2025,
       "date": "2025-01-27",
       "versionStatus": "published",
-      "citedBy": 52,
+      "citedBy": 59,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2025.110847"
     },
@@ -8513,6 +8513,26 @@
       "url": "https://doi.org/10.1109/access.2025.3548549"
     },
     {
+      "id": "W4408675797",
+      "doi": "10.32604/cmc.2025.062807",
+      "title": "Rolling Bearing Fault Diagnosis Based on 1D Convolutional Neural Network and Kolmogorov–Arnold Network for Industrial Internet",
+      "authors": [
+        "Huyong Yan",
+        "Huidong Zhou",
+        "Jian Zheng",
+        "Zhaozhe Zhou"
+      ],
+      "authorCount": 4,
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "journalIssn": "1546-2218",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 14,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmc.2025.062807"
+    },
+    {
       "id": "W4411142926",
       "doi": "10.1109/access.2025.3577672",
       "title": "Bearing Fault Diagnosis in Induction Motors Using Low-Cost Triaxial ADXL355 Accelerometer and a Hybrid CWT-DCNN-LSTM Model",
@@ -8530,26 +8550,6 @@
       "citedBy": 13,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2025.3577672"
-    },
-    {
-      "id": "W4408675797",
-      "doi": "10.32604/cmc.2025.062807",
-      "title": "Rolling Bearing Fault Diagnosis Based on 1D Convolutional Neural Network and Kolmogorov–Arnold Network for Industrial Internet",
-      "authors": [
-        "Huyong Yan",
-        "Huidong Zhou",
-        "Jian Zheng",
-        "Zhaozhe Zhou"
-      ],
-      "authorCount": 4,
-      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
-      "journalIssn": "1546-2218",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 10,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.32604/cmc.2025.062807"
     },
     {
       "id": "W4416267877",
@@ -10669,7 +10669,7 @@
       "year": 2024,
       "date": "2024-04-13",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app14083289"
     },
