@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T17:13:27Z",
-  "windowStart": "2021-11-15",
+  "generatedAt": "2026-11-16T15:42:51Z",
+  "windowStart": "2021-11-16",
   "total": 834,
   "papers": [
     {
@@ -2052,7 +2052,7 @@
       "year": 2026,
       "date": "2026-07-10",
       "versionStatus": "published",
-      "citedBy": 0,
+      "citedBy": 1,
       "oaStatus": "gold",
       "url": "https://doi.org/10.17531/ein/225075"
     },
@@ -2351,7 +2351,7 @@
       "year": 2026,
       "date": "2026-06-14",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-026-55303-4"
     },
@@ -2664,7 +2664,7 @@
       "year": 2026,
       "date": "2026-05-06",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s26092904"
     },
@@ -2836,7 +2836,7 @@
       "year": 2026,
       "date": "2026-04-28",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16094310"
     },
@@ -2857,7 +2857,7 @@
       "year": 2026,
       "date": "2026-04-25",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 9,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.nxmate.2026.102040"
     },
@@ -3263,6 +3263,28 @@
       "url": "https://doi.org/10.1371/journal.pone.0342757"
     },
     {
+      "id": "W4417538236",
+      "doi": "10.1109/tcyb.2026.3668256",
+      "title": "AeroGPT: Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis",
+      "authors": [
+        "Jiale Liu",
+        "Dandan Peng",
+        "Huan Wang",
+        "Chenyu Liu",
+        "Yan-Fu Li",
+        "Min Xie"
+      ],
+      "authorCount": 6,
+      "journal": "IEEE Transactions on Cybernetics",
+      "journalIssn": "2168-2267",
+      "year": 2026,
+      "date": "2026-03-12",
+      "versionStatus": "published",
+      "citedBy": 14,
+      "oaStatus": "green",
+      "url": "https://doi.org/10.1109/tcyb.2026.3668256"
+    },
+    {
       "id": "W7135040373",
       "doi": "10.3390/lubricants14030121",
       "title": "A Novel Bearing Fault Diagnosis Framework with a Multi-Scale Feature Extraction Module and Efficient Content-Guided Attention Mechanism",
@@ -3320,7 +3342,7 @@
       "year": 2026,
       "date": "2026-03-10",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 6,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.eswa.2026.132006"
     },
@@ -3729,6 +3751,27 @@
       "url": "https://doi.org/10.70267/cai.26v3n1.0116"
     },
     {
+      "id": "W7164022336",
+      "doi": "10.24018/ejece.2026.10.1.19772",
+      "title": "Machine Learning-Based Bearing Fault Detection in VFD-Driven Induction Motors for Predictive Maintenance",
+      "authors": [
+        "Talha Riaz",
+        "Nabeel Hasan",
+        "Mubeen Aziz",
+        "M Inam-ur-Rehman",
+        "Muhammad Abdullah Shaheer"
+      ],
+      "authorCount": 5,
+      "journal": "European Journal of Electrical Engineering and Computer Science",
+      "journalIssn": "2736-5751",
+      "year": 2026,
+      "date": "2026-02-03",
+      "versionStatus": "published",
+      "citedBy": 1,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.24018/ejece.2026.10.1.19772"
+    },
+    {
       "id": "W7127421420",
       "doi": "10.1080/10589759.2026.2621847",
       "title": "Physics-guided deep learning-based domain-shift robust alignment network for bearing fault diagnosis",
@@ -3749,27 +3792,6 @@
       "citedBy": 1,
       "oaStatus": "green",
       "url": "https://doi.org/10.1080/10589759.2026.2621847"
-    },
-    {
-      "id": "W7164022336",
-      "doi": "10.24018/ejece.2026.10.1.19772",
-      "title": "Machine Learning-Based Bearing Fault Detection in VFD-Driven Induction Motors for Predictive Maintenance",
-      "authors": [
-        "Talha Riaz",
-        "Nabeel Hasan",
-        "Mubeen Aziz",
-        "M Inam-ur-Rehman",
-        "Muhammad Abdullah Shaheer"
-      ],
-      "authorCount": 5,
-      "journal": "European Journal of Electrical Engineering and Computer Science",
-      "journalIssn": "2736-5751",
-      "year": 2026,
-      "date": "2026-02-03",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.24018/ejece.2026.10.1.19772"
     },
     {
       "id": "W7132833939",
@@ -3970,28 +3992,6 @@
       "citedBy": 4,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1371/journal.pone.0338388"
-    },
-    {
-      "id": "W4417538236",
-      "doi": "10.1109/tcyb.2026.3668256",
-      "title": "AeroGPT: Leveraging Large-Scale Audio Model for Aero-Engine Bearing Fault Diagnosis",
-      "authors": [
-        "Jiale Liu",
-        "Dandan Peng",
-        "Huan Wang",
-        "Chenyu Liu",
-        "Yan-Fu Li",
-        "Min Xie"
-      ],
-      "authorCount": 6,
-      "journal": "IEEE Transactions on Cybernetics",
-      "journalIssn": "2168-2267",
-      "year": 2026,
-      "date": "2026-01-01",
-      "versionStatus": "published",
-      "citedBy": 9,
-      "oaStatus": "green",
-      "url": "https://doi.org/10.1109/tcyb.2026.3668256"
     },
     {
       "id": "W7131088310",
@@ -4218,6 +4218,25 @@
       "citedBy": 1,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1109/tase.2026.3723524"
+    },
+    {
+      "id": "W7140299575",
+      "doi": "10.1504/ijsise.2026.152504",
+      "title": "A combined use of wavelet packet decomposition and convolutional neural network for robust bearing fault diagnosis",
+      "authors": [
+        "Adel Boulassel",
+        "Hocine Bendjama",
+        "Mohamed Larbi Mihoub"
+      ],
+      "authorCount": 3,
+      "journal": "International Journal of Signal and Imaging Systems Engineering",
+      "journalIssn": "1748-0698",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 1,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.1504/ijsise.2026.152504"
     },
     {
       "id": "W7161707168",
@@ -4623,25 +4642,6 @@
       "url": "https://doi.org/10.2478/ijssis-2026-0075"
     },
     {
-      "id": "W7140299575",
-      "doi": "10.1504/ijsise.2026.152504",
-      "title": "A combined use of wavelet packet decomposition and convolutional neural network for robust bearing fault diagnosis",
-      "authors": [
-        "Adel Boulassel",
-        "Hocine Bendjama",
-        "Mohamed Larbi Mihoub"
-      ],
-      "authorCount": 3,
-      "journal": "International Journal of Signal and Imaging Systems Engineering",
-      "journalIssn": "1748-0698",
-      "year": 2026,
-      "date": "2026-01-01",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.1504/ijsise.2026.152504"
-    },
-    {
       "id": "W7162806926",
       "doi": "10.1109/access.2026.3698190",
       "title": "Supervision-Guided Contrastive Learning for Rolling Bearing Fault Diagnosis Under Label Scarcity",
@@ -4863,7 +4863,7 @@
       "year": 2025,
       "date": "2025-12-11",
       "versionStatus": "published",
-      "citedBy": 16,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics14244875"
     },
@@ -5203,7 +5203,7 @@
       "year": 2025,
       "date": "2025-11-12",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25226920"
     },
@@ -5323,7 +5323,7 @@
       "year": 2025,
       "date": "2025-10-29",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-21665-4"
     },
@@ -8662,6 +8662,32 @@
       "url": "https://doi.org/10.32604/cmes.2025.063975"
     },
     {
+      "id": "W4415003165",
+      "doi": "10.1109/tim.2025.3619659",
+      "title": "Research on Probabilistic Contrastive Learning and Quadratic Convolutional Neural Network for Intelligent Diagnosis of Long-Tailed Bearing Data",
+      "authors": [
+        "Zikang Cao",
+        "Yushuo Tan",
+        "Jiayu Yan",
+        "Wenbin Zhang",
+        "Haorong Wu",
+        "Han Xu",
+        "Yue Lu",
+        "Liju Liu",
+        "yunheng chen",
+        "Baozhu Zhao"
+      ],
+      "authorCount": 10,
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "journalIssn": "0018-9456",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 5,
+      "oaStatus": "hybrid",
+      "url": "https://doi.org/10.1109/tim.2025.3619659"
+    },
+    {
       "id": "W4414136032",
       "doi": "10.3934/era.2025237",
       "title": "Adaptive hybrid attention mechanism deep residual threshold networks for bearing fault diagnosis under noisy environments",
@@ -8741,32 +8767,6 @@
       "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2025.3600678"
-    },
-    {
-      "id": "W4415003165",
-      "doi": "10.1109/tim.2025.3619659",
-      "title": "Research on Probabilistic Contrastive Learning and Quadratic Convolutional Neural Network for Intelligent Diagnosis of Long-Tailed Bearing Data",
-      "authors": [
-        "Zikang Cao",
-        "Yushuo Tan",
-        "Jiayu Yan",
-        "Wenbin Zhang",
-        "Haorong Wu",
-        "Han Xu",
-        "Yue Lu",
-        "Liju Liu",
-        "yunheng chen",
-        "Baozhu Zhao"
-      ],
-      "authorCount": 10,
-      "journal": "IEEE Transactions on Instrumentation and Measurement",
-      "journalIssn": "0018-9456",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 4,
-      "oaStatus": "hybrid",
-      "url": "https://doi.org/10.1109/tim.2025.3619659"
     },
     {
       "id": "W4410152949",
@@ -8999,7 +8999,7 @@
       "year": 2024,
       "date": "2024-12-27",
       "versionStatus": "published",
-      "citedBy": 23,
+      "citedBy": 26,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-024-81489-6"
     },
@@ -9039,7 +9039,7 @@
       "year": 2024,
       "date": "2024-12-20",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24248157"
     },
@@ -9100,7 +9100,7 @@
       "year": 2024,
       "date": "2024-12-17",
       "versionStatus": "published",
-      "citedBy": 63,
+      "citedBy": 65,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines12120927"
     },
@@ -10883,7 +10883,7 @@
       "year": 2024,
       "date": "2024-03-15",
       "versionStatus": "published",
-      "citedBy": 19,
+      "citedBy": 21,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym16030358"
     },
@@ -11005,7 +11005,7 @@
       "year": 2024,
       "date": "2024-03-04",
       "versionStatus": "published",
-      "citedBy": 33,
+      "citedBy": 34,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad3016"
     },
@@ -11322,6 +11322,25 @@
       "url": "https://doi.org/10.1049/elp2.12389"
     },
     {
+      "id": "W4390920475",
+      "doi": "10.3934/mbe.2024105",
+      "title": "Bearing fault diagnosis with parallel CNN and LSTM",
+      "authors": [
+        "Guanghua Fu",
+        "Qingjuan Wei",
+        "Yongsheng Yang"
+      ],
+      "authorCount": 3,
+      "journal": "Mathematical Biosciences & Engineering",
+      "journalIssn": "1547-1063",
+      "year": 2024,
+      "date": "2024-01-16",
+      "versionStatus": "published",
+      "citedBy": 91,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3934/mbe.2024105"
+    },
+    {
       "id": "W4390629112",
       "doi": "10.1016/j.ymssp.2023.111077",
       "title": "A novel drum-shaped metastructure aided weak signal enhancement method for bearing fault diagnosis",
@@ -11345,25 +11364,6 @@
       "citedBy": 38,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2023.111077"
-    },
-    {
-      "id": "W4390920475",
-      "doi": "10.3934/mbe.2024105",
-      "title": "Bearing fault diagnosis with parallel CNN and LSTM",
-      "authors": [
-        "Guanghua Fu",
-        "Qingjuan Wei",
-        "Yongsheng Yang"
-      ],
-      "authorCount": 3,
-      "journal": "Mathematical Biosciences & Engineering",
-      "journalIssn": "1547-1063",
-      "year": 2024,
-      "date": "2024-01-01",
-      "versionStatus": "published",
-      "citedBy": 82,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.3934/mbe.2024105"
     },
     {
       "id": "W4393171344",
@@ -11427,6 +11427,24 @@
       "url": "https://doi.org/10.1109/access.2024.3357113"
     },
     {
+      "id": "W4390932995",
+      "doi": "10.1109/access.2024.3354794",
+      "title": "Optimization of Deep Belief Network Based on Sparrow Search Algorithm for Rolling Bearing Fault Diagnosis",
+      "authors": [
+        "Donghao Xu",
+        "Cheng Li"
+      ],
+      "authorCount": 2,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2024,
+      "date": "2024-01-01",
+      "versionStatus": "published",
+      "citedBy": 37,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2024.3354794"
+    },
+    {
       "id": "W4396782799",
       "doi": "10.1109/access.2024.3399670",
       "title": "FaultFormer: Pretraining Transformers for Adaptable Bearing Fault Classification",
@@ -11443,24 +11461,6 @@
       "citedBy": 35,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3399670"
-    },
-    {
-      "id": "W4390932995",
-      "doi": "10.1109/access.2024.3354794",
-      "title": "Optimization of Deep Belief Network Based on Sparrow Search Algorithm for Rolling Bearing Fault Diagnosis",
-      "authors": [
-        "Donghao Xu",
-        "Cheng Li"
-      ],
-      "authorCount": 2,
-      "journal": "IEEE Access",
-      "journalIssn": "2169-3536",
-      "year": 2024,
-      "date": "2024-01-01",
-      "versionStatus": "published",
-      "citedBy": 33,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1109/access.2024.3354794"
     },
     {
       "id": "W4390939288",
@@ -12265,7 +12265,7 @@
       "year": 2023,
       "date": "2023-11-23",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 10,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad0f6a"
     },
@@ -12283,7 +12283,7 @@
       "year": 2023,
       "date": "2023-11-21",
       "versionStatus": "published",
-      "citedBy": 43,
+      "citedBy": 52,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23239311"
     },
@@ -13168,7 +13168,7 @@
       "year": 2023,
       "date": "2023-06-24",
       "versionStatus": "published",
-      "citedBy": 34,
+      "citedBy": 35,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11070678"
     },
@@ -13413,7 +13413,7 @@
       "year": 2023,
       "date": "2023-05-25",
       "versionStatus": "published",
-      "citedBy": 12,
+      "citedBy": 13,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/2631-8695/acd625"
     },
@@ -13579,7 +13579,7 @@
       "year": 2023,
       "date": "2023-04-26",
       "versionStatus": "published",
-      "citedBy": 24,
+      "citedBy": 25,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23094295"
     },
@@ -14174,7 +14174,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 56,
+      "citedBy": 57,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3326367"
     },
@@ -14296,7 +14296,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.34133/research.0176"
     },
@@ -14533,7 +14533,7 @@
       "year": 2022,
       "date": "2022-12-27",
       "versionStatus": "published",
-      "citedBy": 81,
+      "citedBy": 89,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en16010296"
     },
@@ -15063,7 +15063,7 @@
       "year": 2022,
       "date": "2022-10-29",
       "versionStatus": "accepted",
-      "citedBy": 99,
+      "citedBy": 106,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.knosys.2022.110070"
     },
@@ -16138,7 +16138,7 @@
       "year": 2022,
       "date": "2022-04-12",
       "versionStatus": "published",
-      "citedBy": 35,
+      "citedBy": 37,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.37965/jdmd.2022.53"
     },
