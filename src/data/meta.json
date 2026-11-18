@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T19:12:26Z",
-  "total": 835,
-  "windowStart": "2021-11-17",
-  "windowEnd": "2026-11-17",
-  "lastSuccessfulRunAt": "2026-11-17T19:12:26Z",
+  "generatedAt": "2026-11-18T15:38:39Z",
+  "total": 837,
+  "windowStart": "2021-11-18",
+  "windowEnd": "2026-11-18",
+  "lastSuccessfulRunAt": "2026-11-18T15:38:39Z",
   "years": [
     {
       "year": 2026,
-      "count": 233
+      "count": 234
     },
     {
       "year": 2025,
@@ -23,7 +23,7 @@
     },
     {
       "year": 2022,
-      "count": 117
+      "count": 118
     },
     {
       "year": 2021,
@@ -164,6 +164,10 @@
       "count": 4
     },
     {
+      "name": "IET Electric Power Applications",
+      "count": 4
+    },
+    {
       "name": "International Journal of Prognostics and Health Management",
       "count": 4
     },
@@ -201,10 +205,6 @@
     },
     {
       "name": "Frontiers in Mechanical Engineering",
-      "count": 3
-    },
-    {
-      "name": "IET Electric Power Applications",
       "count": 3
     },
     {

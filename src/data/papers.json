@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T19:12:26Z",
-  "windowStart": "2021-11-17",
-  "total": 835,
+  "generatedAt": "2026-11-18T15:38:39Z",
+  "windowStart": "2021-11-18",
+  "total": 837,
   "papers": [
     {
       "id": "W7225770705",
@@ -1680,7 +1680,7 @@
       "title": "Machine Learning-Driven Condition Monitoring and Performance Optimization of Thrust Bearings: State-Of-The-Art Review, Challenges, And Future Perspectives",
       "authors": [
         "Rahul Ramesh Thavai",
-        "Dr. Suresh Jadhav"
+        "Suresh Jadhav"
       ],
       "authorCount": 2,
       "journal": "International Research Journal on Advanced Engineering and Management (IRJAEM)",
@@ -2072,7 +2072,7 @@
       "year": 2026,
       "date": "2026-07-08",
       "versionStatus": "published",
-      "citedBy": 34,
+      "citedBy": 37,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.ymssp.2026.114640"
     },
@@ -2540,7 +2540,7 @@
       "year": 2026,
       "date": "2026-05-25",
       "versionStatus": "published",
-      "citedBy": 0,
+      "citedBy": 1,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16115277"
     },
@@ -4257,6 +4257,29 @@
       "url": "https://doi.org/10.1109/access.2026.3694523"
     },
     {
+      "id": "W7235262674",
+      "doi": "10.1049/elp2.70269",
+      "title": "A Noise‐Robust Multi‐Scale Dilated Convolutional Neural Network With Scale Attention for Bearing Fault Diagnosis",
+      "authors": [
+        "Chun‐Yao Lee",
+        "Guang‐Lin Zhuo",
+        "Tzu‐Hsien Chuang",
+        "Chung‐Hao Huang",
+        "Hong‐Chan Chang",
+        "Kuan‐Yu Huang",
+        "Truong‐An Le"
+      ],
+      "authorCount": 7,
+      "journal": "IET Electric Power Applications",
+      "journalIssn": "1751-8660",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1049/elp2.70269"
+    },
+    {
       "id": "W7218561374",
       "doi": "10.32604/cmc.2026.085769",
       "title": "Lightweight Attention CNN–BiLSTM Model with Contrastive Regularization and Explainable Time–Frequency Analysis for Bearing Fault Diagnosis",
@@ -4927,7 +4950,7 @@
       "year": 2025,
       "date": "2025-12-03",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2025.113711"
     },
@@ -6013,7 +6036,7 @@
       "year": 2025,
       "date": "2025-09-01",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13090792"
     },
@@ -7002,7 +7025,7 @@
       "year": 2025,
       "date": "2025-05-27",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 14,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/add9b4"
     },
@@ -7475,7 +7498,7 @@
       "year": 2025,
       "date": "2025-04-10",
       "versionStatus": "published",
-      "citedBy": 77,
+      "citedBy": 78,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-95895-x"
     },
@@ -9019,7 +9042,7 @@
       "year": 2024,
       "date": "2024-12-26",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/math13010045"
     },
@@ -10069,7 +10092,7 @@
       "year": 2024,
       "date": "2024-07-27",
       "versionStatus": "published",
-      "citedBy": 126,
+      "citedBy": 127,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2024.111750"
     },
@@ -10653,7 +10676,7 @@
       "year": 2024,
       "date": "2024-04-21",
       "versionStatus": "accepted",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.eswa.2024.124084"
     },
@@ -11444,7 +11467,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 41,
+      "citedBy": 42,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3399670"
     },
@@ -12039,7 +12062,7 @@
       "journal": "Computer Modeling in Engineering & Sciences",
       "journalIssn": "1526-1492",
       "year": 2023,
-      "date": "2023-12-19",
+      "date": "2023-12-18",
       "versionStatus": "published",
       "citedBy": 14,
       "oaStatus": "diamond",
@@ -13515,7 +13538,7 @@
       "year": 2023,
       "date": "2023-05-10",
       "versionStatus": "published",
-      "citedBy": 12,
+      "citedBy": 13,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/su15107836"
     },
@@ -13659,7 +13682,7 @@
       "year": 2023,
       "date": "2023-04-11",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 16,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/accbdb"
     },
@@ -13905,7 +13928,7 @@
       "year": 2023,
       "date": "2023-02-07",
       "versionStatus": "accepted",
-      "citedBy": 112,
+      "citedBy": 113,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110171"
     },
@@ -14080,6 +14103,27 @@
       "url": "https://doi.org/10.1109/ticps.2023.3298879"
     },
     {
+      "id": "W4379618848",
+      "doi": "10.1109/access.2023.3283466",
+      "title": "Bearing Fault Diagnosis With Envelope Analysis and Machine Learning Approaches Using CWRU Dataset",
+      "authors": [
+        "Miguel Alonso-González",
+        "Vicente García‐Díaz",
+        "Benjamín López Pérez",
+        "B. Cristina Pelayo G‐Bustelo",
+        "John Anzola"
+      ],
+      "authorCount": 5,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2023,
+      "date": "2023-01-01",
+      "versionStatus": "published",
+      "citedBy": 107,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2023.3283466"
+    },
+    {
       "id": "W4328007112",
       "doi": "10.1109/tim.2023.3259031",
       "title": "Attention-Embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis",
@@ -14097,30 +14141,9 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 105,
+      "citedBy": 106,
       "oaStatus": "green",
       "url": "https://doi.org/10.1109/tim.2023.3259031"
-    },
-    {
-      "id": "W4379618848",
-      "doi": "10.1109/access.2023.3283466",
-      "title": "Bearing Fault Diagnosis With Envelope Analysis and Machine Learning Approaches Using CWRU Dataset",
-      "authors": [
-        "Miguel Alonso-González",
-        "Vicente García‐Díaz",
-        "Benjamín López Pérez",
-        "B. Cristina Pelayo G‐Bustelo",
-        "John Anzola"
-      ],
-      "authorCount": 5,
-      "journal": "IEEE Access",
-      "journalIssn": "2169-3536",
-      "year": 2023,
-      "date": "2023-01-01",
-      "versionStatus": "published",
-      "citedBy": 105,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1109/access.2023.3283466"
     },
     {
       "id": "W4318827194",
@@ -14249,7 +14272,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 16,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3257101"
     },
@@ -14979,7 +15002,7 @@
       "year": 2022,
       "date": "2022-11-02",
       "versionStatus": "published",
-      "citedBy": 25,
+      "citedBy": 26,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/e24111589"
     },
@@ -15321,6 +15344,28 @@
       "citedBy": 28,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1177/16878132221128397"
+    },
+    {
+      "id": "W4312998292",
+      "doi": "10.1109/tte.2022.3211203",
+      "title": "Inferable Deep Distilled Attention Network for Diagnosing Multiple Motor Bearing Faults",
+      "authors": [
+        "Xiaotian Zhang",
+        "Yihua Hu",
+        "Aijun Yin",
+        "Jiamei Deng",
+        "Hui Xu",
+        "Jikai Si"
+      ],
+      "authorCount": 6,
+      "journal": "IEEE Transactions on Transportation Electrification",
+      "journalIssn": "2332-7782",
+      "year": 2022,
+      "date": "2022-09-30",
+      "versionStatus": "published",
+      "citedBy": 43,
+      "oaStatus": "green",
+      "url": "https://doi.org/10.1109/tte.2022.3211203"
     },
     {
       "id": "W4303856886",
@@ -16390,7 +16435,7 @@
       "year": 2022,
       "date": "2022-02-12",
       "versionStatus": "published",
-      "citedBy": 165,
+      "citedBy": 166,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22041410"
     },
