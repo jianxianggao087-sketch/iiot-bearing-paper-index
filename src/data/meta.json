@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T15:43:51Z",
-  "total": 837,
+  "generatedAt": "2026-11-19T19:00:09Z",
+  "total": 838,
   "windowStart": "2021-11-19",
   "windowEnd": "2026-11-19",
-  "lastSuccessfulRunAt": "2026-11-19T15:43:51Z",
+  "lastSuccessfulRunAt": "2026-11-19T19:00:09Z",
   "years": [
     {
       "year": 2026,
-      "count": 234
+      "count": 235
     },
     {
       "year": 2025,
@@ -61,7 +61,7 @@
     },
     {
       "name": "Engineering Research Express",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Processes",
