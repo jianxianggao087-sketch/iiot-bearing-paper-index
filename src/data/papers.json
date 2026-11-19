@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T18:52:23Z",
-  "windowStart": "2021-11-18",
+  "generatedAt": "2026-11-19T15:43:51Z",
+  "windowStart": "2021-11-19",
   "total": 837,
   "papers": [
     {
@@ -2072,7 +2072,7 @@
       "year": 2026,
       "date": "2026-07-08",
       "versionStatus": "published",
-      "citedBy": 37,
+      "citedBy": 38,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.ymssp.2026.114640"
     },
@@ -2585,7 +2585,7 @@
       "year": 2026,
       "date": "2026-05-22",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 4,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s26113288"
     },
@@ -4031,7 +4031,7 @@
       "year": 2026,
       "date": "2026-01-01",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "green",
       "url": "https://doi.org/10.1007/s13042-025-02946-w"
     },
@@ -4805,7 +4805,7 @@
       "year": 2025,
       "date": "2025-12-29",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 7,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-33978-5"
     },
@@ -5584,7 +5584,7 @@
       "year": 2025,
       "date": "2025-10-16",
       "versionStatus": "published",
-      "citedBy": 12,
+      "citedBy": 13,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-06734-y"
     },
@@ -6982,7 +6982,7 @@
       "year": 2025,
       "date": "2025-05-28",
       "versionStatus": "published",
-      "citedBy": 44,
+      "citedBy": 45,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-02439-4"
     },
@@ -9123,7 +9123,7 @@
       "year": 2024,
       "date": "2024-12-17",
       "versionStatus": "published",
-      "citedBy": 65,
+      "citedBy": 66,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines12120927"
     },
@@ -10928,7 +10928,7 @@
       "year": 2024,
       "date": "2024-03-15",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym16030358"
     },
@@ -10991,7 +10991,7 @@
       "year": 2024,
       "date": "2024-03-08",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24061758"
     },
@@ -11381,7 +11381,7 @@
       "year": 2024,
       "date": "2024-01-16",
       "versionStatus": "published",
-      "citedBy": 92,
+      "citedBy": 93,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3934/mbe.2024105"
     },
@@ -13098,7 +13098,7 @@
       "year": 2023,
       "date": "2023-07-06",
       "versionStatus": "published",
-      "citedBy": 371,
+      "citedBy": 372,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110544"
     },
@@ -13797,7 +13797,7 @@
       "year": 2023,
       "date": "2023-03-15",
       "versionStatus": "published",
-      "citedBy": 100,
+      "citedBy": 101,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23063157"
     },
@@ -13842,7 +13842,7 @@
       "year": 2023,
       "date": "2023-02-26",
       "versionStatus": "published",
-      "citedBy": 402,
+      "citedBy": 403,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2023.109186"
     },
@@ -14103,6 +14103,28 @@
       "url": "https://doi.org/10.1109/ticps.2023.3298879"
     },
     {
+      "id": "W4328007112",
+      "doi": "10.1109/tim.2023.3259031",
+      "title": "Attention-Embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis",
+      "authors": [
+        "Jing-Xiao Liao",
+        "Hangcheng Dong",
+        "Zhiqi Sun",
+        "Jinwei Sun",
+        "Shiping Zhang",
+        "Fenglei Fan"
+      ],
+      "authorCount": 6,
+      "journal": "IEEE Transactions on Instrumentation and Measurement",
+      "journalIssn": "0018-9456",
+      "year": 2023,
+      "date": "2023-01-01",
+      "versionStatus": "published",
+      "citedBy": 107,
+      "oaStatus": "green",
+      "url": "https://doi.org/10.1109/tim.2023.3259031"
+    },
+    {
       "id": "W4379618848",
       "doi": "10.1109/access.2023.3283466",
       "title": "Bearing Fault Diagnosis With Envelope Analysis and Machine Learning Approaches Using CWRU Dataset",
@@ -14122,28 +14144,6 @@
       "citedBy": 107,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3283466"
-    },
-    {
-      "id": "W4328007112",
-      "doi": "10.1109/tim.2023.3259031",
-      "title": "Attention-Embedded Quadratic Network (Qttention) for Effective and Interpretable Bearing Fault Diagnosis",
-      "authors": [
-        "Jing-Xiao Liao",
-        "Hangcheng Dong",
-        "Zhiqi Sun",
-        "Jinwei Sun",
-        "Shiping Zhang",
-        "Fenglei Fan"
-      ],
-      "authorCount": 6,
-      "journal": "IEEE Transactions on Instrumentation and Measurement",
-      "journalIssn": "0018-9456",
-      "year": 2023,
-      "date": "2023-01-01",
-      "versionStatus": "published",
-      "citedBy": 106,
-      "oaStatus": "green",
-      "url": "https://doi.org/10.1109/tim.2023.3259031"
     },
     {
       "id": "W4318827194",
@@ -16378,7 +16378,7 @@
       "year": 2022,
       "date": "2022-02-22",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app12052287"
     },
@@ -16435,7 +16435,7 @@
       "year": 2022,
       "date": "2022-02-12",
       "versionStatus": "published",
-      "citedBy": 166,
+      "citedBy": 168,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22041410"
     },
@@ -16456,7 +16456,7 @@
       "year": 2022,
       "date": "2022-02-09",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 4,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ac5341"
     },
@@ -16560,7 +16560,7 @@
       "year": 2022,
       "date": "2022-01-01",
       "versionStatus": "published",
-      "citedBy": 84,
+      "citedBy": 85,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2022.3193244"
     },
@@ -16896,7 +16896,7 @@
       "year": 2021,
       "date": "2021-12-18",
       "versionStatus": "published",
-      "citedBy": 68,
+      "citedBy": 69,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s21248453"
     },
