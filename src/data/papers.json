@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T19:00:09Z",
-  "windowStart": "2021-11-19",
+  "generatedAt": "2026-11-20T15:25:31Z",
+  "windowStart": "2021-11-20",
   "total": 838,
   "papers": [
     {
@@ -88,6 +88,29 @@
       "citedBy": 0,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s26227104"
+    },
+    {
+      "id": "W7225425284",
+      "doi": "10.1108/rs-09-2026-0071",
+      "title": "Multi-channel data fusion and lightweight 1D-CNN for compound axle bearing fault diagnosis in bogie systems",
+      "authors": [
+        "Meryem Abtane",
+        "Khalid Dahi",
+        "Hervé Martinez",
+        "Iman Makrouf",
+        "Sedki Mohamed",
+        "Hicham El Kimi",
+        "Luciano Fernandes Borges"
+      ],
+      "authorCount": 7,
+      "journal": "Railway Sciences",
+      "journalIssn": "2755-0907",
+      "year": 2026,
+      "date": "2026-11-10",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.1108/rs-09-2026-0071"
     },
     {
       "id": "W7225656119",
@@ -195,29 +218,6 @@
       "url": "https://doi.org/10.1016/j.ymssp.2026.115166"
     },
     {
-      "id": "W7225425284",
-      "doi": "10.1108/rs-09-2026-0071",
-      "title": "Multi-channel data fusion and lightweight 1D-CNN for compound axle bearing fault diagnosis in bogie systems",
-      "authors": [
-        "Meryem Abtane",
-        "Khalid Dahi",
-        "Hervé Martinez",
-        "Iman Makrouf",
-        "Sedki Mohamed",
-        "Hicham El Kimi",
-        "Luciano Fernandes Borges"
-      ],
-      "authorCount": 7,
-      "journal": "Railway Sciences",
-      "journalIssn": "2755-0907",
-      "year": 2026,
-      "date": "2026-11-06",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.1108/rs-09-2026-0071"
-    },
-    {
       "id": "W7225395599",
       "doi": "10.1038/s41598-026-77586-3",
       "title": "DirectHF-DA integrates a lightweight network and multi-resolution STFT-RGB for edge-deployable cross-domain bearing fault diagnosis",
@@ -258,6 +258,25 @@
       "citedBy": 0,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines14111298"
+    },
+    {
+      "id": "W7221888724",
+      "doi": "10.1088/1361-6501/aeb4e1",
+      "title": "Learnable wavelet-enhanced localized transformer for low-SNR wind turbine bearing fault diagnosis",
+      "authors": [
+        "Yan Zhang",
+        "Yunfei Zhang",
+        "Xiaoqiang Zhao"
+      ],
+      "authorCount": 3,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2026,
+      "date": "2026-11-04",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "hybrid",
+      "url": "https://doi.org/10.1088/1361-6501/aeb4e1"
     },
     {
       "id": "W7225175609",
@@ -616,25 +635,6 @@
       "citedBy": 0,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-026-76197-2"
-    },
-    {
-      "id": "W7221888724",
-      "doi": "10.1088/1361-6501/aeb4e1",
-      "title": "Learnable wavelet-enhanced localized transformer for low-SNR wind turbine bearing fault diagnosis",
-      "authors": [
-        "Yan Zhang",
-        "Yunfei Zhang",
-        "Xiaoqiang Zhao"
-      ],
-      "authorCount": 3,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2026,
-      "date": "2026-10-15",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "hybrid",
-      "url": "https://doi.org/10.1088/1361-6501/aeb4e1"
     },
     {
       "id": "W7221952389",
@@ -4989,9 +4989,30 @@
       "year": 2025,
       "date": "2025-12-01",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 9,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.rineng.2025.108463"
+    },
+    {
+      "id": "W4416194636",
+      "doi": "10.55057/ijbtm.2025.7.9.36",
+      "title": "Rolling Element Bearing Fault Detection and Diagnosis with One-Dimensional Convolutional Neural Network",
+      "authors": [
+        "Pubalan, Barathan",
+        "Jidin, Muhammad Arif Aiman",
+        "Saufi, Mohd Syahril Ramadhan Mohd",
+        "Leong, Mohd Salman",
+        "Hasan, Muhammad Danial bin Abu"
+      ],
+      "authorCount": 5,
+      "journal": "International Journal of Business and Technology Management",
+      "journalIssn": "2682-7646",
+      "year": 2025,
+      "date": "2025-12-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "green",
+      "url": "https://doi.org/10.55057/ijbtm.2025.7.9.36"
     },
     {
       "id": "W4416998081",
@@ -5209,27 +5230,6 @@
       "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/make7040147"
-    },
-    {
-      "id": "W4416194636",
-      "doi": "10.55057/ijbtm.2025.7.9.36",
-      "title": "Rolling Element Bearing Fault Detection and Diagnosis with One-Dimensional Convolutional Neural Network",
-      "authors": [
-        "Pubalan, Barathan",
-        "Jidin, Muhammad Arif Aiman",
-        "Saufi, Mohd Syahril Ramadhan Mohd",
-        "Leong, Mohd Salman",
-        "Hasan, Muhammad Danial bin Abu"
-      ],
-      "authorCount": 5,
-      "journal": "International Journal of Business and Technology Management",
-      "journalIssn": "2682-7646",
-      "year": 2025,
-      "date": "2025-11-14",
-      "versionStatus": "published",
-      "citedBy": 0,
-      "oaStatus": "green",
-      "url": "https://doi.org/10.55057/ijbtm.2025.7.9.36"
     },
     {
       "id": "W4416228756",
@@ -6803,6 +6803,26 @@
       "url": "https://doi.org/10.1016/j.mlwa.2025.100682"
     },
     {
+      "id": "W4410947004",
+      "doi": "10.1088/1361-6501/addf69",
+      "title": "Rolling element load and path analysis in electromechanically coupled digital twin modeling of rotating machinery",
+      "authors": [
+        "Hongxiang Yang",
+        "Yanxue Wang",
+        "Meng Li",
+        "Meng Zhao"
+      ],
+      "authorCount": 4,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2025,
+      "date": "2025-06-11",
+      "versionStatus": "published",
+      "citedBy": 2,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/addf69"
+    },
+    {
       "id": "W4411048313",
       "doi": "10.1016/j.prime.2025.101025",
       "title": "A novel framework for multi-sensor data fusion in bearing fault diagnosis using continuous wavelet transform and transfer learning",
@@ -6863,26 +6883,6 @@
       "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-03952-2"
-    },
-    {
-      "id": "W4410947004",
-      "doi": "10.1088/1361-6501/addf69",
-      "title": "Rolling element load and path analysis in electromechanically coupled digital twin modeling of rotating machinery",
-      "authors": [
-        "Hongxiang Yang",
-        "Yanxue Wang",
-        "Meng Li",
-        "Meng Zhao"
-      ],
-      "authorCount": 4,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2025,
-      "date": "2025-06-02",
-      "versionStatus": "published",
-      "citedBy": 2,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/addf69"
     },
     {
       "id": "W4410934777",
@@ -7070,6 +7070,28 @@
       "url": "https://doi.org/10.54939/1859-1043.j.mst.103.2025.31-39"
     },
     {
+      "id": "W4410335449",
+      "doi": "10.1088/1361-6501/add7fb",
+      "title": "A review of rolling bearing fault diagnosis: data preprocessing and model optimization",
+      "authors": [
+        "Wenlong Fu",
+        "Shuai Li",
+        "Bin Wen",
+        "Bo Zheng",
+        "Weiqing Liao",
+        "Chao Tan"
+      ],
+      "authorCount": 6,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2025,
+      "date": "2025-05-22",
+      "versionStatus": "published",
+      "citedBy": 37,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/add7fb"
+    },
+    {
       "id": "W4410560029",
       "doi": "10.3390/electronics14102090",
       "title": "Research on Bearing Fault Diagnosis Based on Vibration Signals and Deep Learning Models",
@@ -7152,28 +7174,6 @@
       "url": "https://doi.org/10.3390/machines13050413"
     },
     {
-      "id": "W4410335449",
-      "doi": "10.1088/1361-6501/add7fb",
-      "title": "A review of rolling bearing fault diagnosis: data preprocessing and model optimization",
-      "authors": [
-        "Wenlong Fu",
-        "Shuai Li",
-        "Bin Wen",
-        "Bo Zheng",
-        "Weiqing Liao",
-        "Chao Tan"
-      ],
-      "authorCount": 6,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2025,
-      "date": "2025-05-13",
-      "versionStatus": "published",
-      "citedBy": 37,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/add7fb"
-    },
-    {
       "id": "W4410342979",
       "doi": "10.1109/jsen.2025.3567614",
       "title": "Leveraging Auxiliary Task Relevance for Enhanced Bearing Fault Diagnosis Through Curriculum Meta-Learning",
@@ -7248,7 +7248,7 @@
       "year": 2025,
       "date": "2025-05-05",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-00573-7"
     },
@@ -10334,6 +10334,25 @@
       "url": "https://doi.org/10.3390/s24134186"
     },
     {
+      "id": "W4398161983",
+      "doi": "10.1088/1361-6501/ad4e57",
+      "title": "Cyclostationarity and real order derivatives in roller bearing fault detection",
+      "authors": [
+        "Konsta Karioja",
+        "Riku-Pekka Nikula",
+        "Juhani Nissilä"
+      ],
+      "authorCount": 3,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2024,
+      "date": "2024-06-27",
+      "versionStatus": "published",
+      "citedBy": 1,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad4e57"
+    },
+    {
       "id": "W4400042382",
       "doi": "10.3390/s24134132",
       "title": "Application of Residual Structure Time Convolutional Network Based on Attention Mechanism in Remaining Useful Life Interval Prediction of Bearings",
@@ -10534,25 +10553,6 @@
       "citedBy": 52,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad4fb3"
-    },
-    {
-      "id": "W4398161983",
-      "doi": "10.1088/1361-6501/ad4e57",
-      "title": "Cyclostationarity and real order derivatives in roller bearing fault detection",
-      "authors": [
-        "Konsta Karioja",
-        "Riku-Pekka Nikula",
-        "Juhani Nissilä"
-      ],
-      "authorCount": 3,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2024,
-      "date": "2024-05-21",
-      "versionStatus": "published",
-      "citedBy": 1,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad4e57"
     },
     {
       "id": "W4396661013",
@@ -10974,6 +10974,27 @@
       "url": "https://doi.org/10.3390/s24061831"
     },
     {
+      "id": "W4392384607",
+      "doi": "10.1088/1361-6501/ad3016",
+      "title": "Transfer Learning for Bearing Fault Diagnosis based on Graph Neural Network with Dilated KNN and Adversarial Discriminative Domain Adaptation",
+      "authors": [
+        "Tang Tang",
+        "Zeyuan Liu",
+        "Chuanhang Qiu",
+        "Ming Chen",
+        "Ying Yu"
+      ],
+      "authorCount": 5,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2024,
+      "date": "2024-03-12",
+      "versionStatus": "published",
+      "citedBy": 34,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad3016"
+    },
+    {
       "id": "W4395957418",
       "doi": "10.54097/en1fj162",
       "title": "Bearing Fault Diagnosis Based on VMD-WPT-ViT for Wind Turbine",
@@ -10992,6 +11013,24 @@
       "citedBy": 3,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.54097/en1fj162"
+    },
+    {
+      "id": "W4392243840",
+      "doi": "10.1088/1361-6501/ad2e69",
+      "title": "A lightweight multi-feature fusion vision transformer bearing fault diagnosis method with strong local sensing ability in complex environments",
+      "authors": [
+        "Sen Li",
+        "Xiaoqiang Zhao"
+      ],
+      "authorCount": 2,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2024,
+      "date": "2024-03-11",
+      "versionStatus": "published",
+      "citedBy": 13,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad2e69"
     },
     {
       "id": "W4392600100",
@@ -11053,27 +11092,6 @@
       "citedBy": 13,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1007/s44196-024-00414-x"
-    },
-    {
-      "id": "W4392384607",
-      "doi": "10.1088/1361-6501/ad3016",
-      "title": "Transfer Learning for Bearing Fault Diagnosis based on Graph Neural Network with Dilated KNN and Adversarial Discriminative Domain Adaptation",
-      "authors": [
-        "Tang Tang",
-        "Zeyuan Liu",
-        "Chuanhang Qiu",
-        "Ming Chen",
-        "Ying Yu"
-      ],
-      "authorCount": 5,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2024,
-      "date": "2024-03-04",
-      "versionStatus": "published",
-      "citedBy": 34,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad3016"
     },
     {
       "id": "W4392362810",
@@ -11200,24 +11218,6 @@
       "url": "https://doi.org/10.59324/ejaset.2024.2(2).27"
     },
     {
-      "id": "W4392243840",
-      "doi": "10.1088/1361-6501/ad2e69",
-      "title": "A lightweight multi-feature fusion vision transformer bearing fault diagnosis method with strong local sensing ability in complex environments",
-      "authors": [
-        "Sen Li",
-        "Xiaoqiang Zhao"
-      ],
-      "authorCount": 2,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2024,
-      "date": "2024-02-28",
-      "versionStatus": "published",
-      "citedBy": 13,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad2e69"
-    },
-    {
       "id": "W4391927768",
       "doi": "10.5194/ms-15-87-2024",
       "title": "A convolutional neural-network-based diagnostic framework for industrial bearing",
@@ -11253,6 +11253,25 @@
       "citedBy": 25,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app14041384"
+    },
+    {
+      "id": "W4391014370",
+      "doi": "10.1088/1361-6501/ad20c3",
+      "title": "Domain adaptation with domain specific information and feature disentanglement for bearing fault diagnosis",
+      "authors": [
+        "Shaozhang Xie",
+        "Peng Xia",
+        "Hanqi Zhang"
+      ],
+      "authorCount": 3,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2024,
+      "date": "2024-02-02",
+      "versionStatus": "published",
+      "citedBy": 17,
+      "oaStatus": "hybrid",
+      "url": "https://doi.org/10.1088/1361-6501/ad20c3"
     },
     {
       "id": "W4391403330",
@@ -11330,25 +11349,6 @@
       "citedBy": 1,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.57237/j.mse.2024.01.002"
-    },
-    {
-      "id": "W4391014370",
-      "doi": "10.1088/1361-6501/ad20c3",
-      "title": "Domain adaptation with domain specific information and feature disentanglement for bearing fault diagnosis",
-      "authors": [
-        "Shaozhang Xie",
-        "Peng Xia",
-        "Hanqi Zhang"
-      ],
-      "authorCount": 3,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2024,
-      "date": "2024-01-19",
-      "versionStatus": "published",
-      "citedBy": 17,
-      "oaStatus": "hybrid",
-      "url": "https://doi.org/10.1088/1361-6501/ad20c3"
     },
     {
       "id": "W4390984177",
@@ -12151,6 +12151,30 @@
       "url": "https://doi.org/10.3390/machines11121089"
     },
     {
+      "id": "W4389299882",
+      "doi": "10.1088/1361-6501/ad11e9",
+      "title": "A hierarchical transformer-based adaptive metric and joint-learning network for few-shot rolling bearing fault diagnosis",
+      "authors": [
+        "Zong Meng",
+        "Zhaohui Zhang",
+        "Yang Guan",
+        "Jimeng Li",
+        "Lixiao Cao",
+        "Meng Si Zhu",
+        "Jingjing Fan",
+        "Fengjie Fan"
+      ],
+      "authorCount": 8,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-12-13",
+      "versionStatus": "published",
+      "citedBy": 20,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad11e9"
+    },
+    {
       "id": "W4390413413",
       "doi": "10.62051/kvmd5645",
       "title": "Deep learning based on rolling bearing fault diagnosis method",
@@ -12188,6 +12212,28 @@
       "url": "https://doi.org/10.11591/ijpeds.v15.i1.pp591-602"
     },
     {
+      "id": "W4389274728",
+      "doi": "10.1088/1361-6501/ad11c7",
+      "title": "Rolling bearing fault diagnosis method based on MTF-MFACNN",
+      "authors": [
+        "Chunli Lei",
+        "Chengxiang Miao",
+        "Huiyuan Wan",
+        "Jiyang Zhou",
+        "Dongfeng Hao",
+        "Ruicheng Feng"
+      ],
+      "authorCount": 6,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-12-08",
+      "versionStatus": "published",
+      "citedBy": 31,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad11c7"
+    },
+    {
       "id": "W4389489050",
       "doi": "10.37965/jdmd.2023.468",
       "title": "Bearing Fault Diagnosis Based on Graph Formulation and Graph Convolutional Network",
@@ -12205,52 +12251,6 @@
       "citedBy": 14,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.37965/jdmd.2023.468"
-    },
-    {
-      "id": "W4389299882",
-      "doi": "10.1088/1361-6501/ad11e9",
-      "title": "A hierarchical transformer-based adaptive metric and joint-learning network for few-shot rolling bearing fault diagnosis",
-      "authors": [
-        "Zong Meng",
-        "Zhaohui Zhang",
-        "Yang Guan",
-        "Jimeng Li",
-        "Lixiao Cao",
-        "Meng Si Zhu",
-        "Jingjing Fan",
-        "Fengjie Fan"
-      ],
-      "authorCount": 8,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-12-04",
-      "versionStatus": "published",
-      "citedBy": 20,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad11e9"
-    },
-    {
-      "id": "W4389274728",
-      "doi": "10.1088/1361-6501/ad11c7",
-      "title": "Rolling bearing fault diagnosis method based on MTF-MFACNN",
-      "authors": [
-        "Chunli Lei",
-        "Chengxiang Miao",
-        "Huiyuan Wan",
-        "Jiyang Zhou",
-        "Dongfeng Hao",
-        "Ruicheng Feng"
-      ],
-      "authorCount": 6,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-12-02",
-      "versionStatus": "published",
-      "citedBy": 31,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad11c7"
     },
     {
       "id": "W4389035916",
@@ -12495,6 +12495,24 @@
       "url": "https://doi.org/10.1088/1361-6501/ad068e"
     },
     {
+      "id": "W4387606302",
+      "doi": "10.1088/1361-6501/ad031b",
+      "title": "Rolling bearing fault diagnosis model based on DSCB-NFAM",
+      "authors": [
+        "Xiaoqiang Zhao",
+        "Haike Guo"
+      ],
+      "authorCount": 2,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-10-20",
+      "versionStatus": "published",
+      "citedBy": 21,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ad031b"
+    },
+    {
       "id": "W4387667591",
       "doi": "10.3390/electronics12204282",
       "title": "A Sparse Learning Method with Regularization Parameter as a Self-Adaptation Strategy for Rolling Bearing Fault Diagnosis",
@@ -12516,24 +12534,6 @@
       "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics12204282"
-    },
-    {
-      "id": "W4387606302",
-      "doi": "10.1088/1361-6501/ad031b",
-      "title": "Rolling bearing fault diagnosis model based on DSCB-NFAM",
-      "authors": [
-        "Xiaoqiang Zhao",
-        "Haike Guo"
-      ],
-      "authorCount": 2,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-10-13",
-      "versionStatus": "published",
-      "citedBy": 21,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ad031b"
     },
     {
       "id": "W4387580446",
@@ -12879,6 +12879,27 @@
       "url": "https://doi.org/10.3390/pr11082440"
     },
     {
+      "id": "W4385568846",
+      "doi": "10.1088/1361-6501/aced5b",
+      "title": "Transfer multiscale adaptive convolutional neural network for few-shot and cross-domain bearing fault diagnosis",
+      "authors": [
+        "F. Li",
+        "Liping Wang",
+        "Decheng Wang",
+        "Wu Jun",
+        "Hongjun Zhao"
+      ],
+      "authorCount": 5,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-08-14",
+      "versionStatus": "published",
+      "citedBy": 17,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/aced5b"
+    },
+    {
       "id": "W4385777613",
       "doi": "10.1016/j.asoc.2023.110739",
       "title": "A class-level matching unsupervised transfer learning network for rolling bearing fault diagnosis under various working conditions",
@@ -12899,27 +12920,6 @@
       "citedBy": 49,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.asoc.2023.110739"
-    },
-    {
-      "id": "W4385568846",
-      "doi": "10.1088/1361-6501/aced5b",
-      "title": "Transfer multiscale adaptive convolutional neural network for few-shot and cross-domain bearing fault diagnosis",
-      "authors": [
-        "F. Li",
-        "Liping Wang",
-        "Decheng Wang",
-        "Wu Jun",
-        "Hongjun Zhao"
-      ],
-      "authorCount": 5,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-08-04",
-      "versionStatus": "published",
-      "citedBy": 17,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/aced5b"
     },
     {
       "id": "W4385575528",
@@ -12982,6 +12982,28 @@
       "citedBy": 12,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.23919/jsee.2023.000109"
+    },
+    {
+      "id": "W4383895077",
+      "doi": "10.1088/1361-6501/ace642",
+      "title": "Bearings fault diagnosis method based on MAM and deep separable dilated convolutional neural network",
+      "authors": [
+        "Chunli Lei",
+        "Jiashuo Shi",
+        "Shuzhen Ma",
+        "Linlin Xue",
+        "Mengxuan Jiao",
+        "Jianhua Li"
+      ],
+      "authorCount": 6,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-07-31",
+      "versionStatus": "published",
+      "citedBy": 11,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/ace642"
     },
     {
       "id": "W4385275116",
@@ -13059,28 +13081,6 @@
       "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11070746"
-    },
-    {
-      "id": "W4383895077",
-      "doi": "10.1088/1361-6501/ace642",
-      "title": "Bearings fault diagnosis method based on MAM and deep separable dilated convolutional neural network",
-      "authors": [
-        "Chunli Lei",
-        "Jiashuo Shi",
-        "Shuzhen Ma",
-        "Linlin Xue",
-        "Mengxuan Jiao",
-        "Jianhua Li"
-      ],
-      "authorCount": 6,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-07-11",
-      "versionStatus": "published",
-      "citedBy": 11,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/ace642"
     },
     {
       "id": "W4383621683",
@@ -13665,6 +13665,25 @@
       "url": "https://doi.org/10.3390/met13040822"
     },
     {
+      "id": "W4361295976",
+      "doi": "10.1088/1361-6501/acc885",
+      "title": "Bearing fault diagnosis method using the joint feature extraction of Transformer and ResNet",
+      "authors": [
+        "Shixi Hou",
+        "Ao Lian",
+        "Yundi Chu"
+      ],
+      "authorCount": 3,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-04-17",
+      "versionStatus": "published",
+      "citedBy": 63,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/acc885"
+    },
+    {
       "id": "W4365146857",
       "doi": "10.3390/electronics12081816",
       "title": "An Edge Intelligent Method for Bearing Fault Diagnosis Based on a Parameter Transplantation Convolutional Neural Network",
@@ -13785,25 +13804,6 @@
       "url": "https://doi.org/10.1038/s41598-023-32369-y"
     },
     {
-      "id": "W4361295976",
-      "doi": "10.1088/1361-6501/acc885",
-      "title": "Bearing fault diagnosis method using the joint feature extraction of Transformer and ResNet",
-      "authors": [
-        "Shixi Hou",
-        "Ao Lian",
-        "Yundi Chu"
-      ],
-      "authorCount": 3,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-03-29",
-      "versionStatus": "published",
-      "citedBy": 63,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/acc885"
-    },
-    {
       "id": "W4327620151",
       "doi": "10.3390/s23063157",
       "title": "Lite and Efficient Deep Learning Model for Bearing Fault Diagnosis Using the CWRU Dataset",
@@ -13821,6 +13821,26 @@
       "citedBy": 101,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23063157"
+    },
+    {
+      "id": "W4318035654",
+      "doi": "10.1088/1361-6501/acb609",
+      "title": "A recursive multi-head graph attention residual network for high-speed train wheelset bearing fault diagnosis",
+      "authors": [
+        "Zonghao Yuan",
+        "Xin Li",
+        "Suyan Liu",
+        "Zengqiang Ma"
+      ],
+      "authorCount": 4,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2023,
+      "date": "2023-03-07",
+      "versionStatus": "published",
+      "citedBy": 16,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/acb609"
     },
     {
       "id": "W4323312948",
@@ -14017,26 +14037,6 @@
       "citedBy": 8,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11020185"
-    },
-    {
-      "id": "W4318035654",
-      "doi": "10.1088/1361-6501/acb609",
-      "title": "A recursive multi-head graph attention residual network for high-speed train wheelset bearing fault diagnosis",
-      "authors": [
-        "Zonghao Yuan",
-        "Xin Li",
-        "Suyan Liu",
-        "Zengqiang Ma"
-      ],
-      "authorCount": 4,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2023,
-      "date": "2023-01-25",
-      "versionStatus": "published",
-      "citedBy": 16,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/acb609"
     },
     {
       "id": "W4315607822",
@@ -14735,6 +14735,27 @@
       "url": "https://doi.org/10.3390/electronics11244110"
     },
     {
+      "id": "W4309472359",
+      "doi": "10.1088/1361-6501/aca422",
+      "title": "Bearing fault diagnosis method based on multi-scale domain adaptative network across operating conditions",
+      "authors": [
+        "Gongxian Wang",
+        "Ze Qiang Fu",
+        "Zhihui Hu",
+        "Miao Zhang",
+        "Guanghao Lu"
+      ],
+      "authorCount": 5,
+      "journal": "Measurement Science and Technology",
+      "journalIssn": "0957-0233",
+      "year": 2022,
+      "date": "2022-12-06",
+      "versionStatus": "published",
+      "citedBy": 15,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1088/1361-6501/aca422"
+    },
+    {
       "id": "W4311053291",
       "doi": "10.3390/machines10121145",
       "title": "Towards a Fault Diagnosis Method for Rolling Bearings with Time-Frequency Region-Based Convolutional Neural Network",
@@ -14859,27 +14880,6 @@
       "citedBy": 40,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1186/s13677-022-00350-1"
-    },
-    {
-      "id": "W4309472359",
-      "doi": "10.1088/1361-6501/aca422",
-      "title": "Bearing fault diagnosis method based on multi-scale domain adaptative network across operating conditions",
-      "authors": [
-        "Gongxian Wang",
-        "Ze Qiang Fu",
-        "Zhihui Hu",
-        "Miao Zhang",
-        "Guanghao Lu"
-      ],
-      "authorCount": 5,
-      "journal": "Measurement Science and Technology",
-      "journalIssn": "0957-0233",
-      "year": 2022,
-      "date": "2022-11-18",
-      "versionStatus": "published",
-      "citedBy": 15,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1088/1361-6501/aca422"
     },
     {
       "id": "W4309287803",
@@ -15105,7 +15105,7 @@
       "year": 2022,
       "date": "2022-10-30",
       "versionStatus": "published",
-      "citedBy": 154,
+      "citedBy": 155,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.neucom.2022.10.057"
     },
@@ -15406,7 +15406,7 @@
       "year": 2022,
       "date": "2022-09-30",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 39,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13101656"
     },
@@ -15914,6 +15914,25 @@
       "url": "https://doi.org/10.1063/5.0095530"
     },
     {
+      "id": "W4220867394",
+      "doi": "10.21595/jve.2022.22271",
+      "title": "A convolutional neural network method based on Adam optimizer with power-exponential learning rate for bearing fault diagnosis",
+      "authors": [
+        "Youming Wang",
+        "Zhao Xiao",
+        "Gongqing Cao"
+      ],
+      "authorCount": 3,
+      "journal": "Journal of Vibroengineering",
+      "journalIssn": "1392-8716",
+      "year": 2022,
+      "date": "2022-06-30",
+      "versionStatus": "published",
+      "citedBy": 104,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.21595/jve.2022.22271"
+    },
+    {
       "id": "W4283688399",
       "doi": "10.3390/s22134881",
       "title": "A Bearing Fault Classification Framework Based on Image Encoding Techniques and a Convolutional Neural Network under Different Operating Conditions",
@@ -16076,7 +16095,7 @@
       "year": 2022,
       "date": "2022-05-10",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app12104831"
     },
@@ -16307,25 +16326,6 @@
       "citedBy": 40,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.cja.2022.03.007"
-    },
-    {
-      "id": "W4220867394",
-      "doi": "10.21595/jve.2022.22271",
-      "title": "A convolutional neural network method based on Adam optimizer with power-exponential learning rate for bearing fault diagnosis",
-      "authors": [
-        "Youming Wang",
-        "Zhao Xiao",
-        "Gongqing Cao"
-      ],
-      "authorCount": 3,
-      "journal": "Journal of Vibroengineering",
-      "journalIssn": "1392-8716",
-      "year": 2022,
-      "date": "2022-03-16",
-      "versionStatus": "published",
-      "citedBy": 104,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.21595/jve.2022.22271"
     },
     {
       "id": "W4221046009",
