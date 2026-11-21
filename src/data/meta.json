@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T18:38:43Z",
-  "total": 839,
-  "windowStart": "2021-11-20",
-  "windowEnd": "2026-11-20",
-  "lastSuccessfulRunAt": "2026-11-20T18:38:42Z",
+  "generatedAt": "2026-11-21T14:38:11Z",
+  "total": 840,
+  "windowStart": "2021-11-21",
+  "windowEnd": "2026-11-21",
+  "lastSuccessfulRunAt": "2026-11-21T14:38:11Z",
   "years": [
     {
       "year": 2026,
-      "count": 237
+      "count": 238
     },
     {
       "year": 2025,
@@ -152,6 +152,10 @@
       "count": 5
     },
     {
+      "name": "Results in Engineering",
+      "count": 5
+    },
+    {
       "name": "The International Journal of Acoustics and Vibration",
       "count": 5
     },
@@ -177,10 +181,6 @@
     },
     {
       "name": "Nonlinear Dynamics",
-      "count": 4
-    },
-    {
-      "name": "Results in Engineering",
       "count": 4
     },
     {

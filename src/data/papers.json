@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T18:38:43Z",
-  "windowStart": "2021-11-20",
-  "total": 839,
+  "generatedAt": "2026-11-21T14:38:11Z",
+  "windowStart": "2021-11-21",
+  "total": 840,
   "papers": [
     {
       "id": "W7234856702",
@@ -354,6 +354,26 @@
       "citedBy": 0,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en19215226"
+    },
+    {
+      "id": "W7237062291",
+      "doi": "10.1016/j.rineng.2026.114047",
+      "title": "Digital Twin–Assisted Bearing Fault Diagnosis Using CNN–LSTM Learning",
+      "authors": [
+        "Houssem Habbouche",
+        "Yassine Amirat",
+        "Demba Diallo",
+        "Mohamed Benbouzid"
+      ],
+      "authorCount": 4,
+      "journal": "Results in Engineering",
+      "journalIssn": "2590-1230",
+      "year": 2026,
+      "date": "2026-11-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1016/j.rineng.2026.114047"
     },
     {
       "id": "W7225828168",
@@ -2193,7 +2213,7 @@
       "year": 2026,
       "date": "2026-07-04",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "green",
       "url": "https://doi.org/10.1177/14759217261462579"
     },
@@ -3405,7 +3425,7 @@
       "year": 2026,
       "date": "2026-03-06",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines14030302"
     },
@@ -3425,7 +3445,7 @@
       "year": 2026,
       "date": "2026-03-05",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2026.114108"
     },
@@ -3572,7 +3592,7 @@
       "doi": "10.3390/machines14020251",
       "title": "Physics-Guided Adaptive Graph Transformer for Multi-Modal Bearing Fault Diagnosis Under Variable Working Conditions",
       "authors": [
-        "Gongwen Li",
+        "G. Li",
         "Na Xia",
         "Xu Liu",
         "Jinhua Wu",
@@ -3584,7 +3604,7 @@
       "year": 2026,
       "date": "2026-02-23",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines14020251"
     },
@@ -3887,7 +3907,7 @@
       "year": 2026,
       "date": "2026-01-30",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16031407"
     },
@@ -4157,6 +4177,24 @@
       "url": "https://doi.org/10.1109/access.2026.3656197"
     },
     {
+      "id": "W7161707168",
+      "doi": "10.1109/access.2026.3694523",
+      "title": "A Lightweight Heterogeneous Neural Network Architecture for Multiscale Feature Extraction in Bearing Fault Diagnosis",
+      "authors": [
+        "Huu Thien Phu Nguyen",
+        "Cheol Hong Kim"
+      ],
+      "authorCount": 2,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 2,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2026.3694523"
+    },
+    {
       "id": "W7165627663",
       "doi": "10.1109/access.2026.3706391",
       "title": "A Physics-Informed Single-Source Domain Generalization Framework for Bearing Fault Diagnosis Under Unseen Operating Conditions",
@@ -4298,24 +4336,6 @@
       "citedBy": 1,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.1504/ijsise.2026.152504"
-    },
-    {
-      "id": "W7161707168",
-      "doi": "10.1109/access.2026.3694523",
-      "title": "A Lightweight Heterogeneous Neural Network Architecture for Multiscale Feature Extraction in Bearing Fault Diagnosis",
-      "authors": [
-        "Huu Thien Phu Nguyen",
-        "Cheol Hong Kim"
-      ],
-      "authorCount": 2,
-      "journal": "IEEE Access",
-      "journalIssn": "2169-3536",
-      "year": 2026,
-      "date": "2026-01-01",
-      "versionStatus": "published",
-      "citedBy": 1,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1109/access.2026.3694523"
     },
     {
       "id": "W7235262674",
@@ -5169,7 +5189,7 @@
       "year": 2025,
       "date": "2025-11-24",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-25469-4"
     },
@@ -5267,7 +5287,7 @@
       "year": 2025,
       "date": "2025-11-15",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/make7040147"
     },
@@ -5476,7 +5496,7 @@
       "year": 2025,
       "date": "2025-10-23",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.36001/ijphm.2025.v16i2.4372"
     },
@@ -5721,7 +5741,7 @@
       "year": 2025,
       "date": "2025-10-07",
       "versionStatus": "published",
-      "citedBy": 31,
+      "citedBy": 32,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-22683-y"
     },
@@ -5742,7 +5762,7 @@
       "year": 2025,
       "date": "2025-10-06",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.knosys.2025.114614"
     },
@@ -5788,7 +5808,7 @@
       "year": 2025,
       "date": "2025-10-02",
       "versionStatus": "published",
-      "citedBy": 29,
+      "citedBy": 30,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13100902"
     },
@@ -6058,7 +6078,7 @@
       "year": 2025,
       "date": "2025-09-01",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1093/jcde/qwaf080"
     },
@@ -6363,7 +6383,7 @@
       "year": 2025,
       "date": "2025-08-01",
       "versionStatus": "published",
-      "citedBy": 11,
+      "citedBy": 12,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.mfglet.2025.06.015"
     },
@@ -6444,7 +6464,7 @@
       "year": 2025,
       "date": "2025-07-20",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-12533-2"
     },
@@ -6509,7 +6529,7 @@
       "year": 2025,
       "date": "2025-07-11",
       "versionStatus": "published",
-      "citedBy": 32,
+      "citedBy": 34,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25144348"
     },
@@ -6817,7 +6837,7 @@
       "year": 2025,
       "date": "2025-06-14",
       "versionStatus": "published",
-      "citedBy": 38,
+      "citedBy": 39,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.mlwa.2025.100682"
     },
@@ -6958,7 +6978,7 @@
       "year": 2025,
       "date": "2025-05-31",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app15116225"
     },
@@ -6977,7 +6997,7 @@
       "year": 2025,
       "date": "2025-05-30",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 16,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-04543-x"
     },
@@ -7106,7 +7126,7 @@
       "year": 2025,
       "date": "2025-05-22",
       "versionStatus": "published",
-      "citedBy": 37,
+      "citedBy": 38,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/add7fb"
     },
@@ -7229,7 +7249,7 @@
       "year": 2025,
       "date": "2025-05-09",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-99346-5"
     },
@@ -7351,7 +7371,7 @@
       "year": 2025,
       "date": "2025-04-25",
       "versionStatus": "published",
-      "citedBy": 103,
+      "citedBy": 105,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092712"
     },
@@ -7370,7 +7390,7 @@
       "year": 2025,
       "date": "2025-04-24",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 16,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092678"
     },
@@ -7453,7 +7473,7 @@
       "year": 2025,
       "date": "2025-04-19",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr13041239"
     },
@@ -7577,7 +7597,7 @@
       "year": 2025,
       "date": "2025-04-09",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 16,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25082378"
     },
@@ -7793,7 +7813,7 @@
       "year": 2025,
       "date": "2025-03-08",
       "versionStatus": "published",
-      "citedBy": 6,
+      "citedBy": 7,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym17030406"
     },
@@ -8057,7 +8077,7 @@
       "year": 2025,
       "date": "2025-02-15",
       "versionStatus": "published",
-      "citedBy": 31,
+      "citedBy": 32,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.measurement.2025.117027"
     },
@@ -8158,7 +8178,7 @@
       "year": 2025,
       "date": "2025-02-01",
       "versionStatus": "published",
-      "citedBy": 100,
+      "citedBy": 102,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1063/5.0255451"
     },
@@ -8307,7 +8327,7 @@
       "year": 2025,
       "date": "2025-01-26",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25030752"
     },
@@ -8347,7 +8367,7 @@
       "year": 2025,
       "date": "2025-01-22",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.21595/jve.2024.24621"
     },
@@ -8531,7 +8551,7 @@
       "year": 2025,
       "date": "2025-01-01",
       "versionStatus": "published",
-      "citedBy": 27,
+      "citedBy": 28,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.32604/cmc.2025.062625"
     },
@@ -8551,7 +8571,7 @@
       "year": 2025,
       "date": "2025-01-01",
       "versionStatus": "published",
-      "citedBy": 16,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2025.3548549"
     },
@@ -8703,6 +8723,26 @@
       "url": "https://doi.org/10.1109/access.2025.3548693"
     },
     {
+      "id": "W4414136032",
+      "doi": "10.3934/era.2025237",
+      "title": "Adaptive hybrid attention mechanism deep residual threshold networks for bearing fault diagnosis under noisy environments",
+      "authors": [
+        "Yan Wang",
+        "Kangwen Sun",
+        "Yongkao Li",
+        "Haoquan Liang"
+      ],
+      "authorCount": 4,
+      "journal": "Electronic Research Archive",
+      "journalIssn": "2688-1594",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 6,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3934/era.2025237"
+    },
+    {
       "id": "W4412743827",
       "doi": "10.1049/elp2.70074",
       "title": "Deep Transfer Learning Approach Using Filtered Time‐Frequency Representations of Current Signals for Bearing Fault Detection in Induction Machines",
@@ -8792,26 +8832,6 @@
       "url": "https://doi.org/10.1109/tim.2025.3619659"
     },
     {
-      "id": "W4414136032",
-      "doi": "10.3934/era.2025237",
-      "title": "Adaptive hybrid attention mechanism deep residual threshold networks for bearing fault diagnosis under noisy environments",
-      "authors": [
-        "Yan Wang",
-        "Kangwen Sun",
-        "Yongkao Li",
-        "Haoquan Liang"
-      ],
-      "authorCount": 4,
-      "journal": "Electronic Research Archive",
-      "journalIssn": "2688-1594",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 5,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.3934/era.2025237"
-    },
-    {
       "id": "W4411151599",
       "doi": "10.1155/je/4707723",
       "title": "A Comparative Study of Image Representation for Roller Bearing Fault Diagnosis Using Pretrained Networks",
@@ -8872,6 +8892,24 @@
       "url": "https://doi.org/10.1109/access.2025.3626507"
     },
     {
+      "id": "W4416120740",
+      "doi": "10.23977/jeis.2025.100210",
+      "title": "A rolling bearing fault diagnosis method based on the improved sparrow search algorithm optimized VMD and multi-scale convolutional neural networks",
+      "authors": [
+        "Gaolei Mao",
+        "Yali Sun"
+      ],
+      "authorCount": 2,
+      "journal": "Journal of Electronics and Information Science",
+      "journalIssn": "2371-9524",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 3,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.23977/jeis.2025.100210"
+    },
+    {
       "id": "W4412586345",
       "doi": "10.1049/elp2.70053",
       "title": "A Feature Selection Approach Based on Hybrid Binary Particle Swarm and Whale Optimisation for Bearing Fault Diagnosis",
@@ -8890,24 +8928,6 @@
       "citedBy": 2,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1049/elp2.70053"
-    },
-    {
-      "id": "W4416120740",
-      "doi": "10.23977/jeis.2025.100210",
-      "title": "A rolling bearing fault diagnosis method based on the improved sparrow search algorithm optimized VMD and multi-scale convolutional neural networks",
-      "authors": [
-        "Gaolei Mao",
-        "Yali Sun"
-      ],
-      "authorCount": 2,
-      "journal": "Journal of Electronics and Information Science",
-      "journalIssn": "2371-9524",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 2,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.23977/jeis.2025.100210"
     },
     {
       "id": "W4413554929",
@@ -9144,7 +9164,7 @@
       "year": 2024,
       "date": "2024-12-18",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/lubricants12120452"
     },
@@ -9163,7 +9183,7 @@
       "year": 2024,
       "date": "2024-12-17",
       "versionStatus": "published",
-      "citedBy": 66,
+      "citedBy": 67,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines12120927"
     },
@@ -9350,7 +9370,7 @@
       "year": 2024,
       "date": "2024-11-25",
       "versionStatus": "published",
-      "citedBy": 41,
+      "citedBy": 42,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24237516"
     },
@@ -9508,7 +9528,7 @@
       "year": 2024,
       "date": "2024-11-05",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3389/fmech.2024.1456618"
     },
@@ -9547,7 +9567,7 @@
       "year": 2024,
       "date": "2024-10-23",
       "versionStatus": "published",
-      "citedBy": 23,
+      "citedBy": 24,
       "oaStatus": "green",
       "url": "https://doi.org/10.1007/s11071-024-10310-w"
     },
@@ -9905,7 +9925,7 @@
       "year": 2024,
       "date": "2024-08-30",
       "versionStatus": "accepted",
-      "citedBy": 109,
+      "citedBy": 110,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.sigpro.2024.109683"
     },
@@ -10132,7 +10152,7 @@
       "year": 2024,
       "date": "2024-07-27",
       "versionStatus": "published",
-      "citedBy": 128,
+      "citedBy": 129,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2024.111750"
     },
@@ -10151,7 +10171,7 @@
       "year": 2024,
       "date": "2024-07-26",
       "versionStatus": "published",
-      "citedBy": 44,
+      "citedBy": 47,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24154855"
     },
@@ -10172,7 +10192,7 @@
       "year": 2024,
       "date": "2024-07-26",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/aerospace11080613"
     },
@@ -10213,7 +10233,7 @@
       "year": 2024,
       "date": "2024-07-24",
       "versionStatus": "published",
-      "citedBy": 32,
+      "citedBy": 33,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1088/1361-6501/ad5f4c"
     },
@@ -10233,7 +10253,7 @@
       "year": 2024,
       "date": "2024-07-11",
       "versionStatus": "published",
-      "citedBy": 33,
+      "citedBy": 34,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/info15070399"
     },
@@ -10489,7 +10509,7 @@
       "year": 2024,
       "date": "2024-06-04",
       "versionStatus": "published",
-      "citedBy": 52,
+      "citedBy": 54,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad4fb3"
     },
@@ -10988,7 +11008,7 @@
       "year": 2024,
       "date": "2024-03-13",
       "versionStatus": "published",
-      "citedBy": 74,
+      "citedBy": 75,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24061831"
     },
@@ -11070,7 +11090,7 @@
       "year": 2024,
       "date": "2024-03-08",
       "versionStatus": "published",
-      "citedBy": 41,
+      "citedBy": 42,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24061758"
     },
@@ -12184,7 +12204,7 @@
       "year": 2023,
       "date": "2023-12-14",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11121089"
     },
@@ -12409,7 +12429,7 @@
       "year": 2023,
       "date": "2023-11-17",
       "versionStatus": "published",
-      "citedBy": 35,
+      "citedBy": 36,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11111029"
     },
@@ -12771,7 +12791,7 @@
       "year": 2023,
       "date": "2023-08-30",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/e25091278"
     },
@@ -13138,7 +13158,7 @@
       "year": 2023,
       "date": "2023-07-06",
       "versionStatus": "published",
-      "citedBy": 372,
+      "citedBy": 375,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110544"
     },
@@ -13391,7 +13411,7 @@
       "year": 2023,
       "date": "2023-06-10",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr11061768"
     },
@@ -13435,7 +13455,7 @@
       "year": 2023,
       "date": "2023-06-05",
       "versionStatus": "published",
-      "citedBy": 48,
+      "citedBy": 49,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23115334"
     },
@@ -13557,7 +13577,7 @@
       "year": 2023,
       "date": "2023-05-11",
       "versionStatus": "published",
-      "citedBy": 99,
+      "citedBy": 100,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110434"
     },
@@ -13659,7 +13679,7 @@
       "year": 2023,
       "date": "2023-04-26",
       "versionStatus": "published",
-      "citedBy": 25,
+      "citedBy": 26,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23094295"
     },
@@ -13719,7 +13739,7 @@
       "year": 2023,
       "date": "2023-04-17",
       "versionStatus": "published",
-      "citedBy": 63,
+      "citedBy": 64,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/acc885"
     },
@@ -13781,7 +13801,7 @@
       "year": 2023,
       "date": "2023-04-04",
       "versionStatus": "published",
-      "citedBy": 43,
+      "citedBy": 44,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-023-31532-9"
     },
@@ -13818,7 +13838,7 @@
       "year": 2023,
       "date": "2023-03-31",
       "versionStatus": "published",
-      "citedBy": 97,
+      "citedBy": 98,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-023-32369-y"
     },
@@ -13837,7 +13857,7 @@
       "year": 2023,
       "date": "2023-03-15",
       "versionStatus": "published",
-      "citedBy": 101,
+      "citedBy": 102,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23063157"
     },
@@ -13902,7 +13922,7 @@
       "year": 2023,
       "date": "2023-02-26",
       "versionStatus": "published",
-      "citedBy": 403,
+      "citedBy": 406,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2023.109186"
     },
@@ -13923,7 +13943,7 @@
       "year": 2023,
       "date": "2023-02-21",
       "versionStatus": "published",
-      "citedBy": 41,
+      "citedBy": 42,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1007/s10796-023-10371-z"
     },
@@ -13964,7 +13984,7 @@
       "year": 2023,
       "date": "2023-02-09",
       "versionStatus": "published",
-      "citedBy": 32,
+      "citedBy": 33,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app13042220"
     },
@@ -14114,7 +14134,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 487,
+      "citedBy": 491,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.aei.2023.101877"
     },
@@ -14138,7 +14158,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 159,
+      "citedBy": 161,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1109/ticps.2023.3298879"
     },
@@ -14159,7 +14179,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 109,
+      "citedBy": 110,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3283466"
     },
@@ -14229,7 +14249,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 60,
+      "citedBy": 61,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3332243"
     },
@@ -14276,7 +14296,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 38,
+      "citedBy": 39,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3277040"
     },
@@ -14592,7 +14612,7 @@
       "year": 2022,
       "date": "2022-12-27",
       "versionStatus": "accepted",
-      "citedBy": 127,
+      "citedBy": 128,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.measurement.2022.112408"
     },
@@ -14728,7 +14748,7 @@
       "year": 2022,
       "date": "2022-12-09",
       "versionStatus": "published",
-      "citedBy": 33,
+      "citedBy": 34,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/math10244683"
     },
@@ -14959,7 +14979,7 @@
       "year": 2022,
       "date": "2022-11-16",
       "versionStatus": "published",
-      "citedBy": 30,
+      "citedBy": 31,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22228870"
     },
@@ -15127,7 +15147,7 @@
       "year": 2022,
       "date": "2022-10-31",
       "versionStatus": "published",
-      "citedBy": 27,
+      "citedBy": 28,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/e24111569"
     },
@@ -15316,7 +15336,7 @@
       "year": 2022,
       "date": "2022-10-09",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22197644"
     },
@@ -15464,7 +15484,7 @@
       "year": 2022,
       "date": "2022-09-27",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1155/2022/8913859"
     },
@@ -15484,7 +15504,7 @@
       "year": 2022,
       "date": "2022-09-26",
       "versionStatus": "published",
-      "citedBy": 67,
+      "citedBy": 68,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3934/mbe.2022656"
     },
@@ -15505,7 +15525,7 @@
       "year": 2022,
       "date": "2022-09-23",
       "versionStatus": "published",
-      "citedBy": 60,
+      "citedBy": 61,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.jmsy.2022.09.003"
     },
@@ -15526,7 +15546,7 @@
       "year": 2022,
       "date": "2022-09-14",
       "versionStatus": "published",
-      "citedBy": 19,
+      "citedBy": 20,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/e24091295"
     },
@@ -15970,7 +15990,7 @@
       "year": 2022,
       "date": "2022-06-28",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22134881"
     },
@@ -16475,7 +16495,7 @@
       "year": 2022,
       "date": "2022-02-12",
       "versionStatus": "published",
-      "citedBy": 168,
+      "citedBy": 169,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22041410"
     },
