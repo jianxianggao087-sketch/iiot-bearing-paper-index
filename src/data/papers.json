@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-21T17:35:34Z",
-  "windowStart": "2021-11-21",
-  "total": 840,
+  "generatedAt": "2026-11-22T14:33:06Z",
+  "windowStart": "2021-11-22",
+  "total": 841,
   "papers": [
     {
       "id": "W7234856702",
@@ -8951,6 +8951,26 @@
       "url": "https://doi.org/10.1109/access.2025.3602227"
     },
     {
+      "id": "W4417484502",
+      "doi": "10.3901/jme.2025.12.026",
+      "title": "Unsupervised Noise-adaptive Unrolled Matching Pursuit Denoising Network for Bearing Fault Diagnosis",
+      "authors": [
+        "秦毅",
+        "杨瑞",
+        "赵丽娟",
+        "毛永芳"
+      ],
+      "authorCount": 4,
+      "journal": "Journal of Mechanical Engineering",
+      "journalIssn": "0577-6686",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.3901/jme.2025.12.026"
+    },
+    {
       "id": "W4417119318",
       "doi": "10.1504/ijsise.2025.10075044",
       "title": "A Combined use of Wavelet Packet Decomposition and Convolutional Neural Network for Robust Bearing Fault Diagnosis",
@@ -10253,7 +10273,7 @@
       "year": 2024,
       "date": "2024-07-11",
       "versionStatus": "published",
-      "citedBy": 34,
+      "citedBy": 35,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/info15070399"
     },
@@ -15609,7 +15629,7 @@
       "year": 2022,
       "date": "2022-09-05",
       "versionStatus": "published",
-      "citedBy": 79,
+      "citedBy": 80,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13091471"
     },
@@ -15967,7 +15987,7 @@
       "year": 2022,
       "date": "2022-06-30",
       "versionStatus": "published",
-      "citedBy": 104,
+      "citedBy": 105,
       "oaStatus": "gold",
       "url": "https://doi.org/10.21595/jve.2022.22271"
     },
@@ -15990,7 +16010,7 @@
       "year": 2022,
       "date": "2022-06-28",
       "versionStatus": "published",
-      "citedBy": 43,
+      "citedBy": 44,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22134881"
     },

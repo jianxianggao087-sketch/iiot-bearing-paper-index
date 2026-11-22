@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T17:35:34Z",
-  "total": 840,
-  "windowStart": "2021-11-21",
-  "windowEnd": "2026-11-21",
-  "lastSuccessfulRunAt": "2026-11-21T17:35:34Z",
+  "generatedAt": "2026-11-22T14:33:06Z",
+  "total": 841,
+  "windowStart": "2021-11-22",
+  "windowEnd": "2026-11-22",
+  "lastSuccessfulRunAt": "2026-11-22T14:33:06Z",
   "years": [
     {
       "year": 2026,
@@ -11,7 +11,7 @@
     },
     {
       "year": 2025,
-      "count": 203
+      "count": 204
     },
     {
       "year": 2024,
@@ -325,6 +325,10 @@
     },
     {
       "name": "Journal of Instrumentation",
+      "count": 2
+    },
+    {
+      "name": "Journal of Mechanical Engineering",
       "count": 2
     },
     {
