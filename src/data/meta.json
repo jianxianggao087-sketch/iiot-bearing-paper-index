@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T14:33:06Z",
-  "total": 841,
+  "generatedAt": "2026-11-22T17:51:29Z",
+  "total": 845,
   "windowStart": "2021-11-22",
   "windowEnd": "2026-11-22",
-  "lastSuccessfulRunAt": "2026-11-22T14:33:06Z",
+  "lastSuccessfulRunAt": "2026-11-22T17:51:29Z",
   "years": [
     {
       "year": 2026,
-      "count": 238
+      "count": 240
     },
     {
       "year": 2025,
@@ -19,11 +19,11 @@
     },
     {
       "year": 2023,
-      "count": 121
+      "count": 122
     },
     {
       "year": 2022,
-      "count": 118
+      "count": 119
     },
     {
       "year": 2021,
@@ -220,6 +220,10 @@
       "count": 3
     },
     {
+      "name": "Journal of Mechanical Engineering",
+      "count": 3
+    },
+    {
       "name": "Mathematical Biosciences & Engineering",
       "count": 3
     },
@@ -308,6 +312,10 @@
       "count": 2
     },
     {
+      "name": "International Journal of Robotics and Control Systems",
+      "count": 2
+    },
+    {
       "name": "International Journal of Signal and Imaging Systems Engineering",
       "count": 2
     },
@@ -325,10 +333,6 @@
     },
     {
       "name": "Journal of Instrumentation",
-      "count": 2
-    },
-    {
-      "name": "Journal of Mechanical Engineering",
       "count": 2
     },
     {
