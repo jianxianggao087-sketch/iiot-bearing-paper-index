@@ -1,8 +1,29 @@
 {
-  "generatedAt": "2026-11-22T17:51:29Z",
-  "windowStart": "2021-11-22",
+  "generatedAt": "2026-11-23T18:04:37Z",
+  "windowStart": "2021-11-23",
   "total": 845,
   "papers": [
+    {
+      "id": "W7165047228",
+      "doi": "10.36001/ijphm.2026.v17i2.5068",
+      "title": "Rolling Bearing Fault Diagnosis using Time-frequency Image-based Deep Learning Networks",
+      "authors": [
+        "Rodrigo  Corrêa Fardin",
+        "Marcus  Lourical Neves Filho",
+        "Thomas Walter Rauber",
+        "Berilhes Borges Garcia",
+        "Flávio Miguel Varejão"
+      ],
+      "authorCount": 5,
+      "journal": "International Journal of Prognostics and Health Management",
+      "journalIssn": "2153-2648",
+      "year": 2026,
+      "date": "2026-11-21",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.36001/ijphm.2026.v17i2.5068"
+    },
     {
       "id": "W7234856702",
       "doi": "10.1088/2631-8695/aec367",
@@ -3531,7 +3552,7 @@
       "authors": [
         "Zhen Liu",
         "Guoqiang Wang",
-        "Bo Wang (86769)",
+        "Bo Wang",
         "Nianfeng Shi",
         "Yingying Li",
         "XiangLan Yang"
@@ -5516,7 +5537,7 @@
       "year": 2025,
       "date": "2025-10-25",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1177/01423312251376706"
     },
@@ -5680,7 +5701,7 @@
       "year": 2025,
       "date": "2025-10-17",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines13100960"
     },
@@ -8216,7 +8237,7 @@
       "year": 2025,
       "date": "2025-02-01",
       "versionStatus": "published",
-      "citedBy": 102,
+      "citedBy": 103,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1063/5.0255451"
     },
@@ -8344,7 +8365,7 @@
       "year": 2025,
       "date": "2025-01-26",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app15031257"
     },
@@ -8781,6 +8802,26 @@
       "url": "https://doi.org/10.3934/era.2025237"
     },
     {
+      "id": "W4411151599",
+      "doi": "10.1155/je/4707723",
+      "title": "A Comparative Study of Image Representation for Roller Bearing Fault Diagnosis Using Pretrained Networks",
+      "authors": [
+        "M. Arun Balaji",
+        "S. Naveen Venkatesh",
+        "Vaithiyanathan Sugumaran",
+        "K.I. Ramachandran"
+      ],
+      "authorCount": 4,
+      "journal": "Journal of Engineering",
+      "journalIssn": "2314-4904",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 6,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1155/je/4707723"
+    },
+    {
       "id": "W4412743827",
       "doi": "10.1049/elp2.70074",
       "title": "Deep Transfer Learning Approach Using Filtered Time‐Frequency Representations of Current Signals for Bearing Fault Detection in Induction Machines",
@@ -8868,26 +8909,6 @@
       "citedBy": 5,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1109/tim.2025.3619659"
-    },
-    {
-      "id": "W4411151599",
-      "doi": "10.1155/je/4707723",
-      "title": "A Comparative Study of Image Representation for Roller Bearing Fault Diagnosis Using Pretrained Networks",
-      "authors": [
-        "M. Arun Balaji",
-        "S. Naveen Venkatesh",
-        "Vaithiyanathan Sugumaran",
-        "K.I. Ramachandran"
-      ],
-      "authorCount": 4,
-      "journal": "Journal of Engineering",
-      "journalIssn": "2314-4904",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 5,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1155/je/4707723"
     },
     {
       "id": "W4410152949",
@@ -9222,7 +9243,7 @@
       "year": 2024,
       "date": "2024-12-18",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/lubricants12120452"
     },
@@ -9241,7 +9262,7 @@
       "year": 2024,
       "date": "2024-12-17",
       "versionStatus": "published",
-      "citedBy": 67,
+      "citedBy": 68,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines12120927"
     },
@@ -10188,7 +10209,7 @@
       "year": 2024,
       "date": "2024-07-29",
       "versionStatus": "published",
-      "citedBy": 99,
+      "citedBy": 100,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.heliyon.2024.e35407"
     },
@@ -12487,7 +12508,7 @@
       "year": 2023,
       "date": "2023-11-17",
       "versionStatus": "published",
-      "citedBy": 36,
+      "citedBy": 37,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11111029"
     },
@@ -12597,7 +12618,7 @@
       "title": "Rolling bearing fault diagnosis model based on DSCB-NFAM",
       "authors": [
         "Xiaoqiang Zhao",
-        "Haike Guo"
+        "Hebin Guo"
       ],
       "authorCount": 2,
       "journal": "Measurement Science and Technology",
@@ -13629,7 +13650,7 @@
       "year": 2023,
       "date": "2023-05-17",
       "versionStatus": "published",
-      "citedBy": 47,
+      "citedBy": 48,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr11051527"
     },
@@ -13755,7 +13776,7 @@
       "year": 2023,
       "date": "2023-04-26",
       "versionStatus": "published",
-      "citedBy": 26,
+      "citedBy": 27,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23094295"
     },
@@ -14106,7 +14127,7 @@
       "year": 2023,
       "date": "2023-02-07",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23041858"
     },
@@ -14299,7 +14320,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 67,
+      "citedBy": 68,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3241367"
     },
@@ -15521,7 +15542,7 @@
       "year": 2022,
       "date": "2022-09-30",
       "versionStatus": "published",
-      "citedBy": 39,
+      "citedBy": 40,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13101656"
     },
@@ -15580,7 +15601,7 @@
       "year": 2022,
       "date": "2022-09-26",
       "versionStatus": "published",
-      "citedBy": 68,
+      "citedBy": 69,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3934/mbe.2022656"
     },
@@ -15929,6 +15950,29 @@
       "url": "https://doi.org/10.1155/2022/6234169"
     },
     {
+      "id": "W4284889614",
+      "doi": "10.1016/j.measurement.2022.111597",
+      "title": "A Wavelet Packet Transform Based Deep Feature Transfer Learning Method for Bearing Fault Diagnosis Under Different Working Conditions",
+      "authors": [
+        "Xiao Lin Yu",
+        "Zhongting Liang",
+        "Youjie Wang",
+        "Hongshen Yin",
+        "Xiaowen Liu",
+        "Wanli Yu",
+        "Yanqiu Huang"
+      ],
+      "authorCount": 7,
+      "journal": "Measurement",
+      "journalIssn": "0263-2241",
+      "year": 2022,
+      "date": "2022-07-08",
+      "versionStatus": "published",
+      "citedBy": 133,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.1016/j.measurement.2022.111597"
+    },
+    {
       "id": "W4284889736",
       "doi": "10.3390/machines10070550",
       "title": "Intelligent Bearing Fault Diagnosis Based on Multivariate Symmetrized Dot Pattern and LEG Transformer",
@@ -16113,6 +16157,26 @@
       "citedBy": 44,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en15134614"
+    },
+    {
+      "id": "W4283310908",
+      "doi": "10.1016/j.measurement.2022.111499",
+      "title": "A Fault Mechanism-Based Model for Bearing Fault Diagnosis Under Non-Stationary Conditions Without Target Condition Samples",
+      "authors": [
+        "Hongchun Sun",
+        "Sheng Gao",
+        "Sihan Ma",
+        "Senmiao Lin"
+      ],
+      "authorCount": 4,
+      "journal": "Measurement",
+      "journalIssn": "0263-2241",
+      "year": 2022,
+      "date": "2022-06-23",
+      "versionStatus": "published",
+      "citedBy": 19,
+      "oaStatus": "green",
+      "url": "https://doi.org/10.1016/j.measurement.2022.111499"
     },
     {
       "id": "W4281721937",
@@ -16446,7 +16510,7 @@
       "doi": "10.1016/j.cja.2022.03.007",
       "title": "Fault diagnosis of bearings based on deep separable convolutional neural network and spatial dropout",
       "authors": [
-        "Jiqiang ZHANG",
+        "Jiqiang Zhang",
         "Xiangwei Kong",
         "Xueyi Li",
         "Zhiyong Hu",
@@ -16659,29 +16723,6 @@
       "url": "https://doi.org/10.3390/pr10020209"
     },
     {
-      "id": "W4284889614",
-      "doi": "10.1016/j.measurement.2022.111597",
-      "title": "A Wavelet Packet Transform Based Deep Feature Transfer Learning Method for Bearing Fault Diagnosis Under Different Working Conditions",
-      "authors": [
-        "Xiao Lin Yu",
-        "Zhongting Liang",
-        "Youjie Wang",
-        "Hongshen Yin",
-        "Xiaowen Liu",
-        "Wanli Yu",
-        "Yanqiu Huang"
-      ],
-      "authorCount": 7,
-      "journal": "Measurement",
-      "journalIssn": "0263-2241",
-      "year": 2022,
-      "date": "2022-01-01",
-      "versionStatus": "published",
-      "citedBy": 133,
-      "oaStatus": "bronze",
-      "url": "https://doi.org/10.1016/j.measurement.2022.111597"
-    },
-    {
       "id": "W4286377585",
       "doi": "10.1109/access.2022.3193244",
       "title": "Rolling Bearing Fault Diagnosis Based on Improved GAN and 2-D Representation of Acoustic Emission Signals",
@@ -16799,26 +16840,6 @@
       "citedBy": 20,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2022.3151240"
-    },
-    {
-      "id": "W4283310908",
-      "doi": "10.1016/j.measurement.2022.111499",
-      "title": "A Fault Mechanism-Based Model for Bearing Fault Diagnosis Under Non-Stationary Conditions Without Target Condition Samples",
-      "authors": [
-        "Hongchun Sun",
-        "Sheng Gao",
-        "Sihan Ma",
-        "Senmiao Lin"
-      ],
-      "authorCount": 4,
-      "journal": "Measurement",
-      "journalIssn": "0263-2241",
-      "year": 2022,
-      "date": "2022-01-01",
-      "versionStatus": "published",
-      "citedBy": 19,
-      "oaStatus": "green",
-      "url": "https://doi.org/10.1016/j.measurement.2022.111499"
     },
     {
       "id": "W4226523400",
@@ -17148,26 +17169,6 @@
       "citedBy": 32,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s21237894"
-    },
-    {
-      "id": "W3217494379",
-      "doi": "10.3390/s21227762",
-      "title": "A New Bearing Fault Diagnosis Method Based on Capsule Network and Markov Transition Field/Gramian Angular Field",
-      "authors": [
-        "Bin Han",
-        "Hui Zhang",
-        "Ming Yang Sun",
-        "Fengtong Wu"
-      ],
-      "authorCount": 4,
-      "journal": "Sensors",
-      "journalIssn": "1424-8220",
-      "year": 2021,
-      "date": "2021-11-22",
-      "versionStatus": "published",
-      "citedBy": 80,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.3390/s21227762"
     }
   ]
 }

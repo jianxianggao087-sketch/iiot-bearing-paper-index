@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T17:51:29Z",
+  "generatedAt": "2026-11-23T18:04:37Z",
   "total": 845,
-  "windowStart": "2021-11-22",
-  "windowEnd": "2026-11-22",
-  "lastSuccessfulRunAt": "2026-11-22T17:51:29Z",
+  "windowStart": "2021-11-23",
+  "windowEnd": "2026-11-23",
+  "lastSuccessfulRunAt": "2026-11-23T18:04:37Z",
   "years": [
     {
       "year": 2026,
-      "count": 240
+      "count": 241
     },
     {
       "year": 2025,
@@ -27,13 +27,13 @@
     },
     {
       "year": 2021,
-      "count": 9
+      "count": 8
     }
   ],
   "journals": [
     {
       "name": "Sensors",
-      "count": 91
+      "count": 90
     },
     {
       "name": "Applied Sciences",
@@ -144,6 +144,10 @@
       "count": 5
     },
     {
+      "name": "International Journal of Prognostics and Health Management",
+      "count": 5
+    },
+    {
       "name": "Journal of Dynamics Monitoring and Diagnostics",
       "count": 5
     },
@@ -169,10 +173,6 @@
     },
     {
       "name": "IET Electric Power Applications",
-      "count": 4
-    },
-    {
-      "name": "International Journal of Prognostics and Health Management",
       "count": 4
     },
     {
