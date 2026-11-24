@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-23T22:04:28Z",
-  "total": 845,
-  "windowStart": "2021-11-23",
-  "windowEnd": "2026-11-23",
-  "lastSuccessfulRunAt": "2026-11-23T22:04:28Z",
+  "generatedAt": "2026-11-24T17:42:19Z",
+  "total": 848,
+  "windowStart": "2021-11-24",
+  "windowEnd": "2026-11-24",
+  "lastSuccessfulRunAt": "2026-11-24T17:42:19Z",
   "years": [
     {
       "year": 2026,
-      "count": 241
+      "count": 243
     },
     {
       "year": 2025,
@@ -19,7 +19,7 @@
     },
     {
       "year": 2023,
-      "count": 122
+      "count": 123
     },
     {
       "year": 2022,
@@ -37,7 +37,7 @@
     },
     {
       "name": "Applied Sciences",
-      "count": 53
+      "count": 54
     },
     {
       "name": "Machines",
@@ -84,6 +84,10 @@
       "count": 10
     },
     {
+      "name": "Eksploatacja i Niezawodnosc - Maintenance and Reliability",
+      "count": 9
+    },
+    {
       "name": "Energies",
       "count": 9
     },
@@ -97,10 +101,6 @@
     },
     {
       "name": "Computers, materials & continua/Computers, materials & continua (Print)",
-      "count": 8
-    },
-    {
-      "name": "Eksploatacja i Niezawodnosc - Maintenance and Reliability",
       "count": 8
     },
     {
