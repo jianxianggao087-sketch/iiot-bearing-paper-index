@@ -1,13 +1,17 @@
 {
-  "generatedAt": "2026-11-24T20:41:29Z",
+  "generatedAt": "2026-11-25T17:12:13Z",
   "total": 848,
-  "windowStart": "2021-11-24",
-  "windowEnd": "2026-11-24",
-  "lastSuccessfulRunAt": "2026-11-24T20:41:28Z",
+  "windowStart": "2021-11-25",
+  "windowEnd": "2026-11-25",
+  "lastSuccessfulRunAt": "2026-11-25T17:12:13Z",
   "years": [
     {
+      "year": 2027,
+      "count": 1
+    },
+    {
       "year": 2026,
-      "count": 243
+      "count": 242
     },
     {
       "year": 2025,
