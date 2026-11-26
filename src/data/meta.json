@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T19:57:51Z",
-  "total": 848,
-  "windowStart": "2021-11-25",
-  "windowEnd": "2026-11-25",
-  "lastSuccessfulRunAt": "2026-11-25T19:57:51Z",
+  "generatedAt": "2026-11-26T16:52:20Z",
+  "total": 861,
+  "windowStart": "2021-11-26",
+  "windowEnd": "2026-11-26",
+  "lastSuccessfulRunAt": "2026-11-26T16:52:20Z",
   "years": [
     {
       "year": 2027,
@@ -11,23 +11,23 @@
     },
     {
       "year": 2026,
-      "count": 242
+      "count": 248
     },
     {
       "year": 2025,
-      "count": 204
+      "count": 205
     },
     {
       "year": 2024,
-      "count": 151
+      "count": 153
     },
     {
       "year": 2023,
-      "count": 123
+      "count": 124
     },
     {
       "year": 2022,
-      "count": 119
+      "count": 122
     },
     {
       "year": 2021,
@@ -37,7 +37,7 @@
   "journals": [
     {
       "name": "Sensors",
-      "count": 90
+      "count": 92
     },
     {
       "name": "Applied Sciences",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Machines",
-      "count": 51
+      "count": 53
     },
     {
       "name": "Measurement Science and Technology",
@@ -53,7 +53,7 @@
     },
     {
       "name": "IEEE Access",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Scientific Reports",
@@ -321,6 +321,10 @@
     },
     {
       "name": "International Journal of Signal and Imaging Systems Engineering",
+      "count": 2
+    },
+    {
+      "name": "Jisuanji gongcheng",
       "count": 2
     },
     {

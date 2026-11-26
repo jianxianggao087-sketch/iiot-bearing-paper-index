@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T19:57:51Z",
-  "windowStart": "2021-11-25",
-  "total": 848,
+  "generatedAt": "2026-11-26T16:52:20Z",
+  "windowStart": "2021-11-26",
+  "total": 861,
   "papers": [
     {
       "id": "W7221752236",
@@ -783,9 +783,9 @@
       "doi": "10.20998/0419-8719.2026.1.09",
       "title": "DIGITAL TWIN CONCEPT FOR MONITORING AND DIAGNOSTICS OF CRANK MECHANISM BEARINGS IN MARINE LOW-SPEED DIESEL ENGINES",
       "authors": [
-        "V. Savchuk",
+        "V.S. Savchuk",
         "Y.  Bilousov",
-        "D. Kurnosenko"
+        "Daria Kurnosenko"
       ],
       "authorCount": 3,
       "journal": "Internal combustion Engines",
@@ -904,6 +904,24 @@
       "url": "https://doi.org/10.3390/pr14193195"
     },
     {
+      "id": "W7214459588",
+      "doi": "10.13374/j.issn2095-9389.2026.03.13.002",
+      "title": "Review of bearing fault diagnosis based on neural networks",
+      "authors": [
+        "Xiaoning HU",
+        "Yan LIANG"
+      ],
+      "authorCount": 2,
+      "journal": "Journal of University of Science and Technology Beijing",
+      "journalIssn": "2095-9389",
+      "year": 2026,
+      "date": "2026-10-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.13374/j.issn2095-9389.2026.03.13.002"
+    },
+    {
       "id": "W7213406157",
       "doi": "10.1088/1361-6501/aea87f",
       "title": "A bearing fault diagnosis method across operating conditions based on wavelet packet decomposition and impulse spatiotemporal modeling",
@@ -953,7 +971,7 @@
         "Xin Wang",
         "Ning Li",
         "Xishuo Yao",
-        "Peter K. Liaw"
+        "Peter Kaehuei Liaw"
       ],
       "authorCount": 6,
       "journal": "Measurement Digitalization",
@@ -1876,6 +1894,27 @@
       "url": "https://doi.org/10.3390/s26154890"
     },
     {
+      "id": "W7196923113",
+      "doi": "10.19678/j.issn.1000-3428.0070483",
+      "title": "Bearing Fault Diagnosis Based on Multiple-Constraint Modal-Invariant Graph Convolutional Fusion Network",
+      "authors": [
+        "WANG Zhongmei, NIE Pengxuan, LIU Jianhua, WU Haibo, ZHENG Liang",
+        "Pengxuan Nie",
+        "LIU Jianhua",
+        "WU Haibo",
+        "ZHENG Liang"
+      ],
+      "authorCount": 5,
+      "journal": "Jisuanji gongcheng",
+      "journalIssn": "1000-3428",
+      "year": 2026,
+      "date": "2026-08-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.19678/j.issn.1000-3428.0070483"
+    },
+    {
       "id": "W7203934943",
       "doi": "10.1088/2631-8695/ae98ff",
       "title": "Lightweight mobile inverted bottleneck convolution network with time–frequency Gramian angular field for bearing fault diagnosis",
@@ -2584,6 +2623,25 @@
       "url": "https://doi.org/10.3390/machines14060629"
     },
     {
+      "id": "W7162862637",
+      "doi": "10.3969/j.issn.1673-3819.2026.03.012",
+      "title": "Intelligent state identification of inter axle bearings in ship power systems based on multi-dimensional fusion of data and reality",
+      "authors": [
+        "WANG  Changdong, YANG  Jingli, GAO  Tianyu",
+        "Jingli Yang",
+        "GAO Tianyu"
+      ],
+      "authorCount": 3,
+      "journal": "Command Control & Simulation",
+      "journalIssn": "1673-3819",
+      "year": 2026,
+      "date": "2026-06-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.3969/j.issn.1673-3819.2026.03.012"
+    },
+    {
       "id": "W7164989353",
       "doi": "10.1049/aie2.70014",
       "title": "A Physics‐Aware Lightweight Transformer Network for Intelligent Bearing Fault Diagnosis Under Variable Operating Conditions",
@@ -2702,7 +2760,7 @@
       "year": 2026,
       "date": "2026-05-25",
       "versionStatus": "published",
-      "citedBy": 1,
+      "citedBy": 2,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16115277"
     },
@@ -2758,7 +2816,7 @@
       "authors": [
         "Neil Watson",
         "J.C. Ji",
-        "XiaoJun Chang"
+        "Xiaojun Chang"
       ],
       "authorCount": 3,
       "journal": "Mechanical Systems and Signal Processing",
@@ -2887,6 +2945,26 @@
       "citedBy": 4,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines14050507"
+    },
+    {
+      "id": "W7161380405",
+      "doi": "10.19678/j.issn.1000-3428.0070297",
+      "title": "Dual-Channel Rolling Bearing Fault Diagnosis Method Based on ACNN-LFSwin Transformer",
+      "authors": [
+        "HUO Jiuyuan, LI Xin, CHANG Chen, ZHANG Yaonan",
+        "LI Xin",
+        "CHANG Chen",
+        "ZHANG Yaonan"
+      ],
+      "authorCount": 4,
+      "journal": "Jisuanji gongcheng",
+      "journalIssn": "1000-3428",
+      "year": 2026,
+      "date": "2026-05-01",
+      "versionStatus": "published",
+      "citedBy": 3,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.19678/j.issn.1000-3428.0070297"
     },
     {
       "id": "W7160081357",
@@ -3154,7 +3232,7 @@
         "Rohith Nair",
         "Jonathan Jacob",
         "Narendiranath Babu T",
-        "M. Pandiyan"
+        "PANDIYAN M"
       ],
       "authorCount": 5,
       "journal": "Scientific Reports",
@@ -3278,7 +3356,7 @@
       "year": 2026,
       "date": "2026-03-31",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en19071717"
     },
@@ -3609,6 +3687,25 @@
       "url": "https://doi.org/10.1088/2631-8695/ae51e5"
     },
     {
+      "id": "W7225869699",
+      "doi": "10.13652/j.spjx.1003.5788.2024.80255",
+      "title": "Bearing fault detection of fruit puree packing machine based on multi-channel depth residual graph neural network",
+      "authors": [
+        "YAN Shengli",
+        "Hui Fu",
+        "LI Hao"
+      ],
+      "authorCount": 3,
+      "journal": "Food and Machinery",
+      "journalIssn": "1003-5788",
+      "year": 2026,
+      "date": "2026-03-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.13652/j.spjx.1003.5788.2024.80255"
+    },
+    {
       "id": "W7133905989",
       "doi": "10.17531/ein/218334",
       "title": "A Bearing Fault Diagnosis Method Using a Double Branch Lightweight Network Under Noise Interference",
@@ -3685,7 +3782,7 @@
       "year": 2026,
       "date": "2026-02-24",
       "versionStatus": "published",
-      "citedBy": 0,
+      "citedBy": 1,
       "oaStatus": "gold",
       "url": "https://doi.org/10.21595/jve.2026.25314"
     },
@@ -3726,7 +3823,7 @@
       "year": 2026,
       "date": "2026-02-22",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics15040899"
     },
@@ -4477,6 +4574,23 @@
       "citedBy": 1,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.1504/ijsise.2026.152504"
+    },
+    {
+      "id": "W7203953795",
+      "doi": "10.12677/aam.2026.158348",
+      "title": "Research on Intelligent Fault Diagnosis Modeling of High-Speed Train Bearings Based on Transfer Learning",
+      "authors": [
+        "林霏 刘"
+      ],
+      "authorCount": 1,
+      "journal": "Advances in Applied Mathematics",
+      "journalIssn": "2324-8009",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 0,
+      "oaStatus": "bronze",
+      "url": "https://doi.org/10.12677/aam.2026.158348"
     },
     {
       "id": "W7235262674",
@@ -5527,7 +5641,7 @@
       "year": 2025,
       "date": "2025-10-29",
       "versionStatus": "published",
-      "citedBy": 11,
+      "citedBy": 12,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-21665-4"
     },
@@ -6075,7 +6189,7 @@
       "year": 2025,
       "date": "2025-09-16",
       "versionStatus": "published",
-      "citedBy": 19,
+      "citedBy": 20,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25185758"
     },
@@ -6112,7 +6226,7 @@
       "year": 2025,
       "date": "2025-09-07",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1177/14759217251363600"
     },
@@ -6257,7 +6371,7 @@
       "year": 2025,
       "date": "2025-08-28",
       "versionStatus": "published",
-      "citedBy": 13,
+      "citedBy": 14,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.array.2025.100498"
     },
@@ -7019,7 +7133,7 @@
       "year": 2025,
       "date": "2025-06-04",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.48084/etasr.10758"
     },
@@ -7349,7 +7463,7 @@
       "year": 2025,
       "date": "2025-05-09",
       "versionStatus": "published",
-      "citedBy": 41,
+      "citedBy": 42,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-99346-5"
     },
@@ -7471,7 +7585,7 @@
       "year": 2025,
       "date": "2025-04-25",
       "versionStatus": "published",
-      "citedBy": 106,
+      "citedBy": 107,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092712"
     },
@@ -7531,7 +7645,7 @@
       "year": 2025,
       "date": "2025-04-24",
       "versionStatus": "published",
-      "citedBy": 11,
+      "citedBy": 12,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-98963-4"
     },
@@ -7573,7 +7687,7 @@
       "year": 2025,
       "date": "2025-04-19",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr13041239"
     },
@@ -7595,7 +7709,7 @@
       "year": 2025,
       "date": "2025-04-15",
       "versionStatus": "published",
-      "citedBy": 48,
+      "citedBy": 49,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-96137-w"
     },
@@ -8258,7 +8372,7 @@
       "year": 2025,
       "date": "2025-02-02",
       "versionStatus": "published",
-      "citedBy": 8,
+      "citedBy": 9,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25030904"
     },
@@ -8800,6 +8914,26 @@
       "url": "https://doi.org/10.32604/cmc.2025.059295"
     },
     {
+      "id": "W4411798972",
+      "doi": "10.1109/access.2025.3584099",
+      "title": "A Fault Diagnosis Method for Dry Vacuum Pump Bearing Based on Finite Element Simulation With Deep Transfer Learning",
+      "authors": [
+        "Yanfeng Wei",
+        "Haibin Liu",
+        "Min Wei",
+        "Mingfei Li"
+      ],
+      "authorCount": 4,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 9,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2025.3584099"
+    },
+    {
       "id": "W4408182629",
       "doi": "10.1109/access.2025.3548693",
       "title": "Research on Bearing Fault Diagnosis Methods Based on Various Convolutional Neural Network Architectures",
@@ -9202,7 +9336,7 @@
       "year": 2024,
       "date": "2024-12-28",
       "versionStatus": "published",
-      "citedBy": 26,
+      "citedBy": 27,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-024-81489-6"
     },
@@ -9490,7 +9624,7 @@
       "year": 2024,
       "date": "2024-11-25",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s24237516"
     },
@@ -10428,9 +10562,33 @@
       "year": 2024,
       "date": "2024-07-04",
       "versionStatus": "published",
-      "citedBy": 46,
+      "citedBy": 47,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app14135847"
+    },
+    {
+      "id": "W4400364878",
+      "doi": "10.3390/machines12070456",
+      "title": "Bearing Health State Detection Based on Informer and CNN + Swin Transformer",
+      "authors": [
+        "Chunyang Liu",
+        "Weiwei Zou",
+        "Zhilei Hu",
+        "Hongyu Li",
+        "Xin Sui",
+        "Xiqiang Ma",
+        "Fang Yang",
+        "Nan Guo"
+      ],
+      "authorCount": 8,
+      "journal": "Machines",
+      "journalIssn": "2075-1702",
+      "year": 2024,
+      "date": "2024-07-04",
+      "versionStatus": "published",
+      "citedBy": 12,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3390/machines12070456"
     },
     {
       "id": "W4400240194",
@@ -10675,7 +10833,7 @@
       "doi": "10.3390/machines12060373",
       "title": "Deep Learning-Enhanced Small-Sample Bearing Fault Analysis Using Q-Transform and HOG Image Features in a GRU-XAI Framework",
       "authors": [
-        "Vipul Dave",
+        "Vipul Davé",
         "Himanshu Borade",
         "Hitesh Agrawal",
         "Anshuman Purohit",
@@ -11414,6 +11572,27 @@
       "url": "https://doi.org/10.5194/ms-15-87-2024"
     },
     {
+      "id": "W4391942424",
+      "doi": "10.3390/s24041290",
+      "title": "Fault Diagnosis of the Rolling Bearing by a Multi-Task Deep Learning Method Based on a Classifier Generative Adversarial Network",
+      "authors": [
+        "Zhunan Shen",
+        "Xiangwei Kong",
+        "Liu Cheng",
+        "Rengen Wang",
+        "Yunpeng Zhu"
+      ],
+      "authorCount": 5,
+      "journal": "Sensors",
+      "journalIssn": "1424-8220",
+      "year": 2024,
+      "date": "2024-02-17",
+      "versionStatus": "published",
+      "citedBy": 16,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3390/s24041290"
+    },
+    {
       "id": "W4391646673",
       "doi": "10.3390/app14041384",
       "title": "Fault Detection in Active Magnetic Bearings Using Digital Twin Technology",
@@ -11666,7 +11845,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3399670"
     },
@@ -12221,7 +12400,7 @@
       "year": 2023,
       "date": "2023-12-25",
       "versionStatus": "published",
-      "citedBy": 28,
+      "citedBy": 29,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3347345"
     },
@@ -12282,7 +12461,7 @@
       "year": 2023,
       "date": "2023-12-16",
       "versionStatus": "published",
-      "citedBy": 63,
+      "citedBy": 64,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.engappai.2023.107690"
     },
@@ -12388,7 +12567,7 @@
       "year": 2023,
       "date": "2023-12-08",
       "versionStatus": "published",
-      "citedBy": 31,
+      "citedBy": 33,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad11c7"
     },
@@ -12549,7 +12728,7 @@
       "year": 2023,
       "date": "2023-11-17",
       "versionStatus": "published",
-      "citedBy": 37,
+      "citedBy": 38,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11111029"
     },
@@ -13015,7 +13194,7 @@
       "year": 2023,
       "date": "2023-08-17",
       "versionStatus": "published",
-      "citedBy": 15,
+      "citedBy": 16,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app13169349"
     },
@@ -13033,7 +13212,7 @@
       "year": 2023,
       "date": "2023-08-14",
       "versionStatus": "published",
-      "citedBy": 26,
+      "citedBy": 27,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr11082440"
     },
@@ -13278,7 +13457,7 @@
       "year": 2023,
       "date": "2023-07-06",
       "versionStatus": "published",
-      "citedBy": 375,
+      "citedBy": 377,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110544"
     },
@@ -13466,7 +13645,7 @@
       "year": 2023,
       "date": "2023-06-15",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23125607"
     },
@@ -14060,7 +14239,7 @@
       "year": 2023,
       "date": "2023-02-26",
       "versionStatus": "published",
-      "citedBy": 407,
+      "citedBy": 408,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2023.109186"
     },
@@ -14086,6 +14265,26 @@
       "url": "https://doi.org/10.1007/s10796-023-10371-z"
     },
     {
+      "id": "W4321377700",
+      "doi": "10.3390/machines11020304",
+      "title": "Deep Subdomain Transfer Learning with Spatial Attention ConvLSTM Network for Fault Diagnosis of Wheelset Bearing in High-Speed Trains",
+      "authors": [
+        "Jiujian Wang",
+        "Shaopu Yang",
+        "Yongqiang Liu",
+        "Guilin Wen"
+      ],
+      "authorCount": 4,
+      "journal": "Machines",
+      "journalIssn": "2075-1702",
+      "year": 2023,
+      "date": "2023-02-17",
+      "versionStatus": "published",
+      "citedBy": 23,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3390/machines11020304"
+    },
+    {
       "id": "W4320491106",
       "doi": "10.3390/machines11020279",
       "title": "A Novel Rolling Bearing Fault Diagnosis Method Based on BLS and CNN with Attention Mechanism",
@@ -14101,7 +14300,7 @@
       "year": 2023,
       "date": "2023-02-13",
       "versionStatus": "published",
-      "citedBy": 23,
+      "citedBy": 24,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11020279"
     },
@@ -14146,7 +14345,7 @@
       "year": 2023,
       "date": "2023-02-07",
       "versionStatus": "accepted",
-      "citedBy": 114,
+      "citedBy": 115,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110171"
     },
@@ -14272,7 +14471,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 492,
+      "citedBy": 493,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.aei.2023.101877"
     },
@@ -14317,7 +14516,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 112,
+      "citedBy": 113,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2023.3283466"
     },
@@ -14694,7 +14893,7 @@
       "year": 2022,
       "date": "2022-12-30",
       "versionStatus": "published",
-      "citedBy": 38,
+      "citedBy": 39,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/vibration6010002"
     },
@@ -14792,7 +14991,7 @@
       "year": 2022,
       "date": "2022-12-27",
       "versionStatus": "published",
-      "citedBy": 91,
+      "citedBy": 92,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en16010296"
     },
@@ -15056,7 +15255,7 @@
       "year": 2022,
       "date": "2022-11-19",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22228958"
     },
@@ -15181,7 +15380,7 @@
       "year": 2022,
       "date": "2022-11-12",
       "versionStatus": "published",
-      "citedBy": 69,
+      "citedBy": 70,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22228760"
     },
@@ -15565,6 +15764,27 @@
       "url": "https://doi.org/10.1177/16878132221128397"
     },
     {
+      "id": "W4378701549",
+      "doi": "10.16183/j.cnki.jsjtu.2021.161",
+      "title": "Intelligent Bearing Fault Diagnosis Based on Adaptive Deep Belief Network Under Variable Working Conditions",
+      "authors": [
+        "MA Hangyu, ZHOU Di, WEI Yujie, WU Wei, PAN Ershun",
+        "ZHOU Di",
+        "WEI Yujie",
+        "WU Wei",
+        "PAN Ershun"
+      ],
+      "authorCount": 5,
+      "journal": "上海交通大学学报",
+      "journalIssn": "1006-2467",
+      "year": 2022,
+      "date": "2022-10-01",
+      "versionStatus": "published",
+      "citedBy": 5,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.16183/j.cnki.jsjtu.2021.161"
+    },
+    {
       "id": "W4312998292",
       "doi": "10.1109/tte.2022.3211203",
       "title": "Inferable Deep Distilled Attention Network for Diagnosing Multiple Motor Bearing Faults",
@@ -15582,7 +15802,7 @@
       "year": 2022,
       "date": "2022-09-30",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "green",
       "url": "https://doi.org/10.1109/tte.2022.3211203"
     },
@@ -15604,7 +15824,7 @@
       "year": 2022,
       "date": "2022-09-30",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13101656"
     },
@@ -15771,6 +15991,25 @@
       "citedBy": 80,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/mi13091471"
+    },
+    {
+      "id": "W4385262959",
+      "doi": "10.13272/j.issn.1671-251x.17980",
+      "title": "Intelligent fault diagnosis of hoist bearing based on feature transfer learning",
+      "authors": [
+        "潘晓博",
+        "Kunpeng Ge",
+        "董飞"
+      ],
+      "authorCount": 3,
+      "journal": "Gong-kuang zidonghua",
+      "journalIssn": "1001-439X",
+      "year": 2022,
+      "date": "2022-09-01",
+      "versionStatus": "published",
+      "citedBy": 4,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.13272/j.issn.1671-251x.17980"
     },
     {
       "id": "W4293547556",
@@ -16110,7 +16349,7 @@
       "year": 2022,
       "date": "2022-07-01",
       "versionStatus": "published",
-      "citedBy": 89,
+      "citedBy": 90,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.55730/1300-0632.3909"
     },
@@ -16130,7 +16369,7 @@
       "year": 2022,
       "date": "2022-07-01",
       "versionStatus": "published",
-      "citedBy": 27,
+      "citedBy": 28,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1063/5.0095530"
     },
@@ -16149,7 +16388,7 @@
       "year": 2022,
       "date": "2022-06-30",
       "versionStatus": "published",
-      "citedBy": 105,
+      "citedBy": 106,
       "oaStatus": "gold",
       "url": "https://doi.org/10.21595/jve.2022.22271"
     },
@@ -16278,6 +16517,25 @@
       "citedBy": 106,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22103936"
+    },
+    {
+      "id": "W4280516766",
+      "doi": "10.3390/s22103878",
+      "title": "A Novel Fault Diagnosis Method of Rolling Bearing Based on Integrated Vision Transformer Model",
+      "authors": [
+        "Xinyu Tang",
+        "Zengbing Xu",
+        "Zhigang Wang"
+      ],
+      "authorCount": 3,
+      "journal": "Sensors",
+      "journalIssn": "1424-8220",
+      "year": 2022,
+      "date": "2022-05-20",
+      "versionStatus": "published",
+      "citedBy": 104,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3390/s22103878"
     },
     {
       "id": "W4280651404",
@@ -16523,7 +16781,7 @@
       "year": 2022,
       "date": "2022-04-06",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/en15072707"
     },
@@ -16697,7 +16955,7 @@
       "year": 2022,
       "date": "2022-02-12",
       "versionStatus": "published",
-      "citedBy": 169,
+      "citedBy": 170,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22041410"
     },
