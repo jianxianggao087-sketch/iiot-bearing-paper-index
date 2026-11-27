@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T19:38:38Z",
-  "total": 861,
-  "windowStart": "2021-11-26",
-  "windowEnd": "2026-11-26",
-  "lastSuccessfulRunAt": "2026-11-26T19:38:38Z",
+  "generatedAt": "2026-11-27T16:38:24Z",
+  "total": 862,
+  "windowStart": "2021-11-27",
+  "windowEnd": "2026-11-27",
+  "lastSuccessfulRunAt": "2026-11-27T16:38:24Z",
   "years": [
     {
       "year": 2027,
@@ -19,7 +19,7 @@
     },
     {
       "year": 2024,
-      "count": 153
+      "count": 155
     },
     {
       "year": 2023,
@@ -31,29 +31,29 @@
     },
     {
       "year": 2021,
-      "count": 8
+      "count": 7
     }
   ],
   "journals": [
     {
       "name": "Sensors",
-      "count": 92
+      "count": 91
     },
     {
       "name": "Applied Sciences",
-      "count": 54
+      "count": 55
     },
     {
       "name": "Machines",
       "count": 53
     },
     {
-      "name": "Measurement Science and Technology",
+      "name": "IEEE Access",
       "count": 49
     },
     {
-      "name": "IEEE Access",
-      "count": 48
+      "name": "Measurement Science and Technology",
+      "count": 49
     },
     {
       "name": "Scientific Reports",

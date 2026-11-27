@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T19:38:38Z",
-  "windowStart": "2021-11-26",
-  "total": 861,
+  "generatedAt": "2026-11-27T16:38:24Z",
+  "windowStart": "2021-11-27",
+  "total": 862,
   "papers": [
     {
       "id": "W7221752236",
@@ -1800,7 +1800,7 @@
       "doi": "10.1016/j.rineng.2026.112252",
       "title": "A physics-informed digital twin framework for health monitoring and remaining useful life prediction of rolling bearings",
       "authors": [
-        "KRISHNA PRAKASH P",
+        "Krishna Prakash P",
         "Shourya Aggarwal",
         "Shivam Ojha",
         "Amit Shelke",
@@ -2479,6 +2479,26 @@
       "url": "https://doi.org/10.3390/machines14060698"
     },
     {
+      "id": "W7165689524",
+      "doi": "10.11113/jurnalteknologi.v88.24553",
+      "title": "A REVIEW OF BEARING FAULT DETECTION, DIAGNOSIS AND PROGNOSTICS",
+      "authors": [
+        "Mohd Sufian Othman",
+        "Mohd Syahril Ramadhan Mohd Saufi",
+        "M. Salman Leong",
+        "Zair Asrar Ahmad"
+      ],
+      "authorCount": 4,
+      "journal": "Jurnal Teknologi",
+      "journalIssn": "0127-9696",
+      "year": 2026,
+      "date": "2026-06-16",
+      "versionStatus": "published",
+      "citedBy": 2,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.11113/jurnalteknologi.v88.24553"
+    },
+    {
       "id": "W7164910060",
       "doi": "10.3390/s26123829",
       "title": "IoT-Driven Robust Bearing Fault Diagnosis for Induction Motors Under Operating-Condition Shift",
@@ -2495,26 +2515,6 @@
       "citedBy": 1,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s26123829"
-    },
-    {
-      "id": "W7165689524",
-      "doi": "10.11113/jurnalteknologi.v88.24553",
-      "title": "A REVIEW OF BEARING FAULT DETECTION, DIAGNOSIS AND PROGNOSTICS",
-      "authors": [
-        "Mohd Sufian Othman",
-        "Mohd Syahril Ramadhan Mohd Saufi",
-        "M. Salman Leong",
-        "Zair Asrar Ahmad"
-      ],
-      "authorCount": 4,
-      "journal": "Jurnal Teknologi",
-      "journalIssn": "0127-9696",
-      "year": 2026,
-      "date": "2026-06-16",
-      "versionStatus": "published",
-      "citedBy": 1,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.11113/jurnalteknologi.v88.24553"
     },
     {
       "id": "W7164753959",
@@ -3027,7 +3027,7 @@
       "doi": "10.1038/s41598-026-50930-3",
       "title": "Rolling element bearing fault diagnosis based on modified Pufferfish optimization assisted efficient customized convolutional neural network with IMI-EMD",
       "authors": [
-        "PANDIYAN M",
+        "Pandiyan M",
         "Narendiranath Babu T"
       ],
       "authorCount": 2,
@@ -3232,7 +3232,7 @@
         "Rohith Nair",
         "Jonathan Jacob",
         "Narendiranath Babu T",
-        "PANDIYAN M"
+        "Pandiyan M"
       ],
       "authorCount": 5,
       "journal": "Scientific Reports",
@@ -3888,7 +3888,7 @@
       "year": 2026,
       "date": "2026-02-12",
       "versionStatus": "published",
-      "citedBy": 4,
+      "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app16041846"
     },
@@ -4190,7 +4190,7 @@
       "date": "2026-01-21",
       "versionStatus": "published",
       "citedBy": 6,
-      "oaStatus": "diamond",
+      "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.cjme.2025.100204"
     },
     {
@@ -4295,6 +4295,27 @@
       "url": "https://doi.org/10.1007/s13042-025-02946-w"
     },
     {
+      "id": "W7118309009",
+      "doi": "10.1049/cth2.70101",
+      "title": "Effective Variable‐Speed Bearing Fault Diagnosis From Motor Current Signals Using Kurtosis‐Guided VMD and Multi‐Branch Convolutional Neural Network",
+      "authors": [
+        "DJELLOULI Seyyid Ahmed",
+        "M. Djeddi",
+        "Aissa Kheldoun",
+        "Nima Khosravi",
+        "Adel Oubelaid"
+      ],
+      "authorCount": 5,
+      "journal": "IET Control Theory and Applications",
+      "journalIssn": "1751-8644",
+      "year": 2026,
+      "date": "2026-01-01",
+      "versionStatus": "published",
+      "citedBy": 8,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1049/cth2.70101"
+    },
+    {
       "id": "W4414816267",
       "doi": "10.32604/cmc.2025.068246",
       "title": "Bearing Fault Diagnosis Based on Multimodal Fusion GRU and Swin-Transformer",
@@ -4314,27 +4335,6 @@
       "citedBy": 8,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.32604/cmc.2025.068246"
-    },
-    {
-      "id": "W7118309009",
-      "doi": "10.1049/cth2.70101",
-      "title": "Effective Variable‐Speed Bearing Fault Diagnosis From Motor Current Signals Using Kurtosis‐Guided VMD and Multi‐Branch Convolutional Neural Network",
-      "authors": [
-        "DJELLOULI Seyyid Ahmed",
-        "M. Djeddi",
-        "Aissa Kheldoun",
-        "Nima Khosravi",
-        "Adel Oubelaid"
-      ],
-      "authorCount": 5,
-      "journal": "IET Control Theory and Applications",
-      "journalIssn": "1751-8644",
-      "year": 2026,
-      "date": "2026-01-01",
-      "versionStatus": "published",
-      "citedBy": 7,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1049/cth2.70101"
     },
     {
       "id": "W7131088310",
@@ -4487,7 +4487,7 @@
       "date": "2026-01-01",
       "versionStatus": "published",
       "citedBy": 1,
-      "oaStatus": "diamond",
+      "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.cjme.2026.100219"
     },
     {
@@ -5100,7 +5100,7 @@
       "year": 2025,
       "date": "2025-12-29",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-33978-5"
     },
@@ -5152,7 +5152,7 @@
       "title": "LiMS-MFormer: A Lightweight Multi-Scale and Multi-Dimensional Attention Transformer for Robust Rolling Bearing Fault Diagnosis Under Complex Conditions",
       "authors": [
         "Haixiao Cao",
-        "Chuanlong Ding",
+        "Ding Chuanlong",
         "Yonghong Zhang",
         "Liang Jiang"
       ],
@@ -5162,7 +5162,7 @@
       "year": 2025,
       "date": "2025-12-25",
       "versionStatus": "published",
-      "citedBy": 2,
+      "citedBy": 3,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines14010032"
     },
@@ -5346,7 +5346,7 @@
       "year": 2025,
       "date": "2025-11-27",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 4,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app152312575"
     },
@@ -5621,7 +5621,7 @@
       "year": 2025,
       "date": "2025-11-04",
       "versionStatus": "published",
-      "citedBy": 7,
+      "citedBy": 8,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/a18110700"
     },
@@ -5710,7 +5710,7 @@
       "year": 2025,
       "date": "2025-10-23",
       "versionStatus": "published",
-      "citedBy": 10,
+      "citedBy": 11,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.36001/ijphm.2025.v16i2.4372"
     },
@@ -6044,7 +6044,7 @@
       "year": 2025,
       "date": "2025-10-02",
       "versionStatus": "published",
-      "citedBy": 3,
+      "citedBy": 4,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-16895-5"
     },
@@ -6743,7 +6743,7 @@
       "year": 2025,
       "date": "2025-07-11",
       "versionStatus": "published",
-      "citedBy": 35,
+      "citedBy": 36,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25144348"
     },
@@ -6974,7 +6974,7 @@
       "year": 2025,
       "date": "2025-06-19",
       "versionStatus": "published",
-      "citedBy": 16,
+      "citedBy": 17,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25123822"
     },
@@ -7256,7 +7256,7 @@
       "year": 2025,
       "date": "2025-05-28",
       "versionStatus": "published",
-      "citedBy": 45,
+      "citedBy": 46,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-02439-4"
     },
@@ -7359,7 +7359,7 @@
       "year": 2025,
       "date": "2025-05-21",
       "versionStatus": "published",
-      "citedBy": 14,
+      "citedBy": 15,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics14102090"
     },
@@ -7521,7 +7521,7 @@
       "year": 2025,
       "date": "2025-05-02",
       "versionStatus": "published",
-      "citedBy": 12,
+      "citedBy": 13,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3389/fphy.2025.1546620"
     },
@@ -7585,7 +7585,7 @@
       "year": 2025,
       "date": "2025-04-25",
       "versionStatus": "published",
-      "citedBy": 107,
+      "citedBy": 108,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s25092712"
     },
@@ -7664,7 +7664,7 @@
       "year": 2025,
       "date": "2025-04-19",
       "versionStatus": "published",
-      "citedBy": 34,
+      "citedBy": 35,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-98138-1"
     },
@@ -7687,7 +7687,7 @@
       "year": 2025,
       "date": "2025-04-19",
       "versionStatus": "published",
-      "citedBy": 18,
+      "citedBy": 19,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/pr13041239"
     },
@@ -7793,7 +7793,7 @@
       "year": 2025,
       "date": "2025-04-10",
       "versionStatus": "published",
-      "citedBy": 80,
+      "citedBy": 82,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1038/s41598-025-95895-x"
     },
@@ -8392,7 +8392,7 @@
       "year": 2025,
       "date": "2025-02-01",
       "versionStatus": "published",
-      "citedBy": 103,
+      "citedBy": 105,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1063/5.0255451"
     },
@@ -8829,6 +8829,25 @@
       "url": "https://doi.org/10.1109/access.2025.3577672"
     },
     {
+      "id": "W4410058261",
+      "doi": "10.32604/cmes.2025.063975",
+      "title": "Full Ceramic Bearing Fault Diagnosis with Few-Shot Learning Using GPT-2",
+      "authors": [
+        "David He",
+        "Miao He",
+        "Jay Yoon"
+      ],
+      "authorCount": 3,
+      "journal": "Computer Modeling in Engineering & Sciences",
+      "journalIssn": "1526-1492",
+      "year": 2025,
+      "date": "2025-01-01",
+      "versionStatus": "published",
+      "citedBy": 14,
+      "oaStatus": "diamond",
+      "url": "https://doi.org/10.32604/cmes.2025.063975"
+    },
+    {
       "id": "W4408675797",
       "doi": "10.32604/cmc.2025.062807",
       "title": "Rolling Bearing Fault Diagnosis Based on 1D Convolutional Neural Network and Kolmogorov–Arnold Network for Industrial Internet",
@@ -8847,25 +8866,6 @@
       "citedBy": 14,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.32604/cmc.2025.062807"
-    },
-    {
-      "id": "W4410058261",
-      "doi": "10.32604/cmes.2025.063975",
-      "title": "Full Ceramic Bearing Fault Diagnosis with Few-Shot Learning Using GPT-2",
-      "authors": [
-        "David He",
-        "Miao He",
-        "Jay Yoon"
-      ],
-      "authorCount": 3,
-      "journal": "Computer Modeling in Engineering & Sciences",
-      "journalIssn": "1526-1492",
-      "year": 2025,
-      "date": "2025-01-01",
-      "versionStatus": "published",
-      "citedBy": 13,
-      "oaStatus": "diamond",
-      "url": "https://doi.org/10.32604/cmes.2025.063975"
     },
     {
       "id": "W4416267877",
@@ -8888,7 +8888,7 @@
       "year": 2025,
       "date": "2025-01-01",
       "versionStatus": "published",
-      "citedBy": 12,
+      "citedBy": 13,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.30919/es1882"
     },
@@ -9437,7 +9437,7 @@
       "year": 2024,
       "date": "2024-12-17",
       "versionStatus": "published",
-      "citedBy": 68,
+      "citedBy": 69,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines12120927"
     },
@@ -10045,9 +10045,28 @@
       "year": 2024,
       "date": "2024-09-24",
       "versionStatus": "published",
-      "citedBy": 5,
+      "citedBy": 6,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app14198582"
+    },
+    {
+      "id": "W4402646569",
+      "doi": "10.3390/app14188431",
+      "title": "Combined ResNet Attention Multi-Head Net (CRAMNet): A Novel Approach to Fault Diagnosis of Rolling Bearings Using Acoustic Radiation Signals and Advanced Deep Learning Techniques",
+      "authors": [
+        "Xiaozheng Xu",
+        "Ying Li",
+        "Xuebao Ding"
+      ],
+      "authorCount": 3,
+      "journal": "Applied Sciences",
+      "journalIssn": "2076-3417",
+      "year": 2024,
+      "date": "2024-09-19",
+      "versionStatus": "published",
+      "citedBy": 8,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.3390/app14188431"
     },
     {
       "id": "W4402516141",
@@ -10384,7 +10403,7 @@
       "year": 2024,
       "date": "2024-07-29",
       "versionStatus": "published",
-      "citedBy": 100,
+      "citedBy": 101,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.heliyon.2024.e35407"
     },
@@ -10507,7 +10526,7 @@
       "year": 2024,
       "date": "2024-07-11",
       "versionStatus": "published",
-      "citedBy": 35,
+      "citedBy": 36,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/info15070399"
     },
@@ -10766,7 +10785,7 @@
       "year": 2024,
       "date": "2024-06-13",
       "versionStatus": "published",
-      "citedBy": 50,
+      "citedBy": 51,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1088/1361-6501/ad53f1"
     },
@@ -10934,7 +10953,7 @@
       "date": "2024-04-24",
       "versionStatus": "published",
       "citedBy": 7,
-      "oaStatus": "diamond",
+      "oaStatus": "gold",
       "url": "https://doi.org/10.1016/j.hspr.2024.04.003"
     },
     {
@@ -11266,7 +11285,7 @@
       "year": 2024,
       "date": "2024-03-15",
       "versionStatus": "published",
-      "citedBy": 22,
+      "citedBy": 23,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym16030358"
     },
@@ -11806,7 +11825,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 58,
+      "citedBy": 60,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3380438"
     },
@@ -11863,7 +11882,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 39,
+      "citedBy": 40,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3357113"
     },
@@ -11934,9 +11953,31 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 30,
+      "citedBy": 31,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/access.2024.3390234"
+    },
+    {
+      "id": "W4398764972",
+      "doi": "10.1109/access.2024.3404968",
+      "title": "Research on Fault Diagnosis Method of Bearings in the Spindle System for CNC Machine Tools Based on DRSN-Transformer",
+      "authors": [
+        "Xiaoxu Li",
+        "Jiaming Chen",
+        "Jiahao Wang",
+        "Jianqiang Wang",
+        "Xiaotao Li",
+        "Yingnan Kan"
+      ],
+      "authorCount": 6,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2024,
+      "date": "2024-01-01",
+      "versionStatus": "published",
+      "citedBy": 27,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2024.3404968"
     },
     {
       "id": "W4403437241",
@@ -11975,7 +12016,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1109/ojies.2024.3417401"
     },
@@ -12138,7 +12179,7 @@
       "year": 2024,
       "date": "2024-01-01",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "diamond",
       "url": "https://doi.org/10.1016/j.ifacol.2024.07.309"
     },
@@ -12204,6 +12245,28 @@
       "url": "https://doi.org/10.1109/access.2024.3520624"
     },
     {
+      "id": "W4400409716",
+      "doi": "10.1109/access.2024.3424476",
+      "title": "Mixed Attention Network for Source-Free Domain Adaptation in Bearing Fault Diagnosis",
+      "authors": [
+        "Naiming Qi",
+        "Yijiao Liu",
+        "Jianfei Yang",
+        "Qiufan Yuan",
+        "Kang Sun",
+        "Mingying Huo"
+      ],
+      "authorCount": 6,
+      "journal": "IEEE Access",
+      "journalIssn": "2169-3536",
+      "year": 2024,
+      "date": "2024-01-01",
+      "versionStatus": "published",
+      "citedBy": 5,
+      "oaStatus": "gold",
+      "url": "https://doi.org/10.1109/access.2024.3424476"
+    },
+    {
       "id": "W4400770593",
       "doi": "10.1109/access.2024.3430512",
       "title": "LiteFDNet: A Lightweight Network for Current Sensor-Based Bearing Fault Diagnosis",
@@ -12241,28 +12304,6 @@
       "citedBy": 5,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1155/2024/3376733"
-    },
-    {
-      "id": "W4400409716",
-      "doi": "10.1109/access.2024.3424476",
-      "title": "Mixed Attention Network for Source-Free Domain Adaptation in Bearing Fault Diagnosis",
-      "authors": [
-        "Naiming Qi",
-        "Yijiao Liu",
-        "Jianfei Yang",
-        "Qiufan Yuan",
-        "Kang Sun",
-        "Mingying Huo"
-      ],
-      "authorCount": 6,
-      "journal": "IEEE Access",
-      "journalIssn": "2169-3536",
-      "year": 2024,
-      "date": "2024-01-01",
-      "versionStatus": "published",
-      "citedBy": 3,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.1109/access.2024.3424476"
     },
     {
       "id": "W4403872292",
@@ -12665,7 +12706,7 @@
       "year": 2023,
       "date": "2023-11-21",
       "versionStatus": "published",
-      "citedBy": 53,
+      "citedBy": 54,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23239311"
     },
@@ -12989,7 +13030,7 @@
       "year": 2023,
       "date": "2023-09-13",
       "versionStatus": "published",
-      "citedBy": 17,
+      "citedBy": 18,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1371/journal.pone.0291353"
     },
@@ -13360,7 +13401,7 @@
       "year": 2023,
       "date": "2023-07-25",
       "versionStatus": "published",
-      "citedBy": 9,
+      "citedBy": 10,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s23156654"
     },
@@ -13416,7 +13457,7 @@
       "year": 2023,
       "date": "2023-07-17",
       "versionStatus": "published",
-      "citedBy": 42,
+      "citedBy": 43,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/machines11070746"
     },
@@ -13457,7 +13498,7 @@
       "year": 2023,
       "date": "2023-07-06",
       "versionStatus": "published",
-      "citedBy": 377,
+      "citedBy": 380,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110544"
     },
@@ -13548,7 +13589,7 @@
       "year": 2023,
       "date": "2023-06-26",
       "versionStatus": "published",
-      "citedBy": 40,
+      "citedBy": 41,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/electronics12132826"
     },
@@ -13894,7 +13935,7 @@
       "year": 2023,
       "date": "2023-05-11",
       "versionStatus": "published",
-      "citedBy": 99,
+      "citedBy": 100,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110434"
     },
@@ -14239,7 +14280,7 @@
       "year": 2023,
       "date": "2023-02-26",
       "versionStatus": "published",
-      "citedBy": 408,
+      "citedBy": 409,
       "oaStatus": "green",
       "url": "https://doi.org/10.1016/j.ress.2023.109186"
     },
@@ -14345,7 +14386,7 @@
       "year": 2023,
       "date": "2023-02-07",
       "versionStatus": "accepted",
-      "citedBy": 115,
+      "citedBy": 116,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.ymssp.2023.110171"
     },
@@ -14471,7 +14512,7 @@
       "year": 2023,
       "date": "2023-01-01",
       "versionStatus": "published",
-      "citedBy": 493,
+      "citedBy": 494,
       "oaStatus": "hybrid",
       "url": "https://doi.org/10.1016/j.aei.2023.101877"
     },
@@ -14911,7 +14952,7 @@
       "year": 2022,
       "date": "2022-12-30",
       "versionStatus": "published",
-      "citedBy": 32,
+      "citedBy": 33,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1007/s40747-022-00925-0"
     },
@@ -15464,7 +15505,7 @@
       "year": 2022,
       "date": "2022-11-01",
       "versionStatus": "published",
-      "citedBy": 20,
+      "citedBy": 21,
       "oaStatus": "gold",
       "url": "https://doi.org/10.1177/16878132221135745"
     },
@@ -15544,7 +15585,7 @@
       "year": 2022,
       "date": "2022-10-29",
       "versionStatus": "accepted",
-      "citedBy": 106,
+      "citedBy": 107,
       "oaStatus": "bronze",
       "url": "https://doi.org/10.1016/j.knosys.2022.110070"
     },
@@ -16514,7 +16555,7 @@
       "year": 2022,
       "date": "2022-05-23",
       "versionStatus": "published",
-      "citedBy": 106,
+      "citedBy": 107,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22103936"
     },
@@ -16955,7 +16996,7 @@
       "year": 2022,
       "date": "2022-02-12",
       "versionStatus": "published",
-      "citedBy": 170,
+      "citedBy": 171,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/s22041410"
     },
@@ -17352,7 +17393,7 @@
       "year": 2021,
       "date": "2021-12-23",
       "versionStatus": "published",
-      "citedBy": 38,
+      "citedBy": 39,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/sym14010013"
     },
@@ -17467,28 +17508,9 @@
       "year": 2021,
       "date": "2021-12-02",
       "versionStatus": "published",
-      "citedBy": 21,
+      "citedBy": 22,
       "oaStatus": "gold",
       "url": "https://doi.org/10.3390/app112311429"
-    },
-    {
-      "id": "W3216007425",
-      "doi": "10.3390/s21237894",
-      "title": "Rolling Bearing Incipient Fault Diagnosis Method Based on Improved Transfer Learning with Hybrid Feature Extraction",
-      "authors": [
-        "Zhengni Yang",
-        "Rui Yang",
-        "Mengjie Huang"
-      ],
-      "authorCount": 3,
-      "journal": "Sensors",
-      "journalIssn": "1424-8220",
-      "year": 2021,
-      "date": "2021-11-26",
-      "versionStatus": "published",
-      "citedBy": 32,
-      "oaStatus": "gold",
-      "url": "https://doi.org/10.3390/s21237894"
     }
   ]
 }
